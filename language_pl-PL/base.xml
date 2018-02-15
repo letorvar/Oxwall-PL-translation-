@@ -973,7 +973,7 @@
         <value>Edytuj szczegóły profilu</value>
     </key>
     <key name="feed_user_join">
-        <value>dołączył do naszej społęcznośći!</value>
+        <value>dołączył do naszej społecznośći!</value>
     </key>
     <key name="flag">
         <value>Zgłoś</value>
@@ -1018,55 +1018,55 @@
         <value>Wprowadź swój e-mail</value>
     </key>
     <key name="forgot_password_code_exists_error_message">
-        <value>You have already received reset code today. Please try again in 24 hours.</value>
+        <value>Kod do zresetowania hasła został już dziś wysłany. Możesz spróbować ponownie za 24 godziny.</value>
     </key>
     <key name="forgot_password_email_invitation_message">
         <value>Twój adres e-mail</value>
     </key>
     <key name="forgot_password_form_text">
-        <value>Type the email address you used at registration.</value>
+        <value>Wpisz swój adres e-mail który został użyty do rejestracji konta.</value>
     </key>
     <key name="forgot_password_heading">
-        <value>Forgot password</value>
+        <value>Nie pamiętam hasła</value>
     </key>
     <key name="forgot_password_instructions">
-        <value>To reset password you just need to enter your email address, get our reset code and use it to change your old password.</value>
+        <value>Żeby zresetować hasło wystarczy wpisać adres e-mail, wyślemy e-maila z kodem resetującym stare hasło, użyj go aby utworzyć nowe hasło.</value>
     </key>
     <key name="forgot_password_label">
-        <value>Forgot Password</value>
+        <value>Nie pamiętam hasła</value>
     </key>
     <key name="forgot_password_mail_template_content_html">
-        <value>Dear {$username},&lt;br /&gt;&#13;&lt;br /&gt;&#13;You requested to reset your password. Here's your new password: &lt;b&gt;{$password}&lt;/b&gt;&lt;br /&gt;&#13;&lt;br /&gt;&#13;Feel free to log in to your account at &lt;a href="{$site_url}"&gt;{$site_url}&lt;/a&gt; and change your password again if necessary.&lt;br /&gt;&#13;&lt;br /&gt;&#13;Thank you,&lt;br /&gt;&#13;{$site_name}</value>
+        <value>Droga {$username},&lt;br /&gt;&#13;&lt;br /&gt;&#13;Wypełniłaś formularz resetowania hasła. To jest Twój kod: &lt;b&gt;{$password}&lt;/b&gt;&lt;br /&gt;&#13;&lt;br /&gt;&#13;Zaloguj się na swoje konto &lt;a href="{$site_url}"&gt;{$site_url}&lt;/a&gt; Możesz teraz utworzyć swoje nowe hasło.&lt;br /&gt;&#13;&lt;br /&gt;&#13;Dziękujemy,&lt;br /&gt;&#13;{$site_name}</value>
     </key>
     <key name="forgot_password_mail_template_content_txt">
-        <value>Dear {$username},&#13;&#13;You requested to reset your password. Here's your new password: {$password}&#13;&#13;Feel free to log in to your account at {$site_url} and change your password again if necessary.&#13;&#13;Thank you,&#13;{$site_name}</value>
+        <value>Droga {$username},&#13;&#13;Wypełniłaś formularz resetowania hasła. To jest Twój kod: {$password}&#13;&#13;Zaloguj się na swoje konto {$site_url}Możesz teraz utworzyć swoje nowe hasło.&#13;&#13;Thank you,&#13;{$site_name}</value>
     </key>
     <key name="forgot_password_mail_template_subject">
-        <value>New password for your account</value>
+        <value>Twoje nowe hasło</value>
     </key>
     <key name="forgot_password_no_user_error_message">
-        <value>There is no user with this email address</value>
+        <value>Ten adres e-mail nie jest przypisany do żadnego konta</value>
     </key>
     <key name="forgot_password_request_exists_error_message">
-        <value>Reset code already sent. Please try again in 10 minutes.</value>
+        <value>Twój kod do resetowania hasła został już wysłany. Spróbuj jeszcze raz za 10 minut.</value>
     </key>
     <key name="forgot_password_submit_label">
-        <value>Go</value>
+        <value>Potwierdź</value>
     </key>
     <key name="forgot_password_success_message">
-        <value>The information on changing and confirming your new password sent to your email</value>
+        <value>Informacja o potwierdzeniu zmiany hasła została wysłana na Twój e-mail.</value>
     </key>
     <key name="form_element_age_range">
-        <value>(Age Range)</value>
+        <value>(Przedział wiekowy)</value>
     </key>
     <key name="form_element_common_invitation_text">
-        <value>Write here...</value>
+        <value>Napisz tutaj...</value>
     </key>
     <key name="form_element_from">
-        <value>from</value>
+        <value>z</value>
     </key>
     <key name="form_element_select_field_invitation_label">
-        <value>Select</value>
+        <value>Wybierz</value>
     </key>
     <key name="form_element_submit_default_balue">
         <value>Submit</value>
