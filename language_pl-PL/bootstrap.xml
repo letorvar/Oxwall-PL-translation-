@@ -1,2 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<prefix name="bootstrap" label="Bootstrap" language_tag="pl-PL" language_label="Polski"><key name="admin_button_save_value"><value>Save Settings</value></key><key name="admin_donate_heading"><value>EwtNet Spotlight</value></key><key name="admin_option_after"><value>After Theme</value></key><key name="admin_option_before"><value>Before Theme</value></key><key name="admin_option_no"><value>No</value></key><key name="admin_option_yes"><value>Yes</value></key><key name="admin_page_title"><value>Configure Bootstrap Options</value></key><key name="admin_save_failure"><value>Error saving your settings. Check and try again</value></key><key name="admin_settings_heading"><value>OW Bootstrap</value></key><key name="admin_successfully_saved"><value>OW Configuration options updated successfully!</value></key><key name="bootstrap_admin_donate"><value>Spotlight</value></key><key name="bootstrap_admin_settings"><value>Setting</value></key><key name="css_maxcdn_desc"><value>Load Boostrap stylesheet from Maxcdn. Enable for faster laoding.</value></key><key name="css_maxcdn_label"><value>Load CSS from CDN</value></key><key name="css_order_desc"><value>Position bootstrap stylesheet. 'After Theme' will override your theme styles.</value></key><key name="css_order_label"><value>CSS Order</value></key><key name="custom_css_desc"><value>Add your own CSS code. This will oveeride any theme css.</value></key><key name="custom_css_example"><value>/*Cascading Stylesheet code*/</value></key><key name="custom_css_label"><value>Custom CSS</value></key><key name="donate_invitation"><value>If you like our work and would like to support us, go ahead and make a small donation. Thanks in advance :)</value></key><key name="general_setting_label"><value>Configure OW Bootstrap</value></key><key name="js_maxcdn_desc"><value>Load Bootstrap JavaScript from Maxcdn. Enable for faster laoding.</value></key><key name="js_maxcdn_label"><value>Load JS from CND</value></key><key name="spotlight_title"><value>Spotlight</value></key></prefix>
+<prefix name="bootstrap" label="Bootstrap" language_tag="pl-PL" language_label="Polski">
+    <key name="admin_button_save_value">
+        <value>Save Settings</value>
+    </key>
+    <key name="admin_donate_heading">
+        <value>EwtNet Spotlight</value>
+    </key>
+    <key name="admin_option_after">
+        <value>After Theme</value>
+    </key>
+    <key name="admin_option_before">
+        <value>Before Theme</value>
+    </key>
+    <key name="admin_option_no">
+        <value>No</value>
+    </key>
+    <key name="admin_option_yes">
+        <value>Yes</value>
+    </key>
+    <key name="admin_page_title">
+        <value>Configure Bootstrap Options</value>
+    </key>
+    <key name="admin_save_failure">
+        <value>Error saving your settings. Check and try again</value>
+    </key>
+    <key name="admin_settings_heading">
+        <value>OW Bootstrap</value>
+    </key>
+    <key name="admin_successfully_saved">
+        <value>OW Configuration options updated successfully!</value>
+    </key>
+    <key name="bootstrap_admin_donate">
+        <value>Spotlight</value>
+    </key>
+    <key name="bootstrap_admin_settings">
+        <value>Setting</value>
+    </key>
+    <key name="css_maxcdn_desc">
+        <value>Load Boostrap stylesheet from Maxcdn. Enable for faster laoding.</value>
+    </key>
+    <key name="css_maxcdn_label">
+        <value>Load CSS from CDN</value>
+    </key>
+    <key name="css_order_desc">
+        <value>Position bootstrap stylesheet. 'After Theme' will override your theme styles.</value>
+    </key>
+    <key name="css_order_label">
+        <value>CSS Order</value>
+    </key>
+    <key name="custom_css_desc">
+        <value>Add your own CSS code. This will oveeride any theme css.</value>
+    </key>
+    <key name="custom_css_example">
+        <value>/*Cascading Stylesheet code*/</value>
+    </key>
+    <key name="custom_css_label">
+        <value>Custom CSS</value>
+    </key>
+    <key name="donate_invitation">
+        <value>If you like our work and would like to support us, go ahead and make a small donation. Thanks in advance :)</value>
+    </key>
+    <key name="general_setting_label">
+        <value>Configure OW Bootstrap</value>
+    </key>
+    <key name="js_maxcdn_desc">
+        <value>Load Bootstrap JavaScript from Maxcdn. Enable for faster laoding.</value>
+    </key>
+    <key name="js_maxcdn_label">
+        <value>Load JS from CND</value>
+    </key>
+    <key name="spotlight_title">
+        <value>Spotlight</value>
+    </key>
+</prefix>

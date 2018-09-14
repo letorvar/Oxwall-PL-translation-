@@ -203,7 +203,7 @@
         <value>Podstawowe uprawnienia</value>
     </key>
     <key name="authorization_group_blogs">
-        <value>Blogs</value>
+        <value>Blogi</value>
     </key>
     <key name="authorization_group_event">
         <value>Wydarzenia</value>
@@ -212,10 +212,10 @@
         <value>Forum</value>
     </key>
     <key name="authorization_group_friends">
-        <value>Przyjaciele</value>
+        <value>Przyjaciółki</value>
     </key>
     <key name="authorization_group_groups">
-        <value>Przyjaciele</value>
+        <value>Przyjaciółki</value>
     </key>
     <key name="authorization_group_links">
         <value>Linki</value>
@@ -239,7 +239,7 @@
         <value>User Credits</value>
     </key>
     <key name="authorization_group_video">
-        <value>Wideo</value>
+        <value>Filmy</value>
     </key>
     <key name="authorization_group_virtualgifts">
         <value>Wirtualne Prezenty</value>
@@ -325,7 +325,7 @@
         <value>lub wybierz z galerii</value>
     </key>
     <key name="avatar_console_edit_profile">
-        <value>Edytuj mój profi</value>
+        <value>Edytuj profil</value>
     </key>
     <key name="avatar_crop">
         <value>Przytnij Avatar</value>
@@ -421,7 +421,7 @@
         <value>lub</value>
     </key>
     <key name="base_sign_in_txt">
-        <value>Witamy w naszj społecznośći &lt;br /&gt;&lt;br /&gt;&#13; Zaloguj się aby korzystać z naszj strony.</value>
+        <value>Witamy w naszj społeczności &lt;br /&gt;&lt;br /&gt;&#13; Zaloguj się aby korzystać z naszj strony.</value>
     </key>
     <key name="billing_amount">
         <value>Ilość</value>
@@ -664,13 +664,13 @@
         <value>Ustawienia</value>
     </key>
     <key name="console_item_label_profile">
-        <value>Mój profil</value>
+        <value>Pokaż profil</value>
     </key>
     <key name="console_item_label_sign_out">
         <value>Wyloguj</value>
     </key>
     <key name="console_item_sign_up_label">
-        <value>Zalogujp</value>
+        <value>Zaloguj</value>
     </key>
     <key name="content_avatars_label">
         <value>Zdjęcia profilowe</value>
@@ -715,7 +715,7 @@
         <value>Convert new line to &lt;br /&gt;</value>
     </key>
     <key name="custom_html_widget_no_content">
-        <value>No Content</value>
+        <value>Brak zawartości</value>
     </key>
     <key name="dashboard">
         <value>Dashboard</value>
@@ -952,13 +952,13 @@
         <value>Brak użytkowników</value>
     </key>
     <key name="feed_activity_avatar_string">
-        <value>Skomentuj {$user}'s nowe zdjęcie profilowe</value>
+        <value>Skomentuj {$user} nowe zdjęcie profilowe</value>
     </key>
     <key name="feed_activity_avatar_string_like">
-        <value>liked {$user}'s new avatar</value>
+        <value>polubiła {$user} nowe zdjęcie</value>
     </key>
     <key name="feed_activity_avatar_string_like_own">
-        <value>liked their new avatar</value>
+        <value>polubiła nowe zdjęcie</value>
     </key>
     <key name="feed_activity_avatar_string_own">
         <value>skomentuj nowy awatar</value>
@@ -973,7 +973,7 @@
         <value>Edytuj szczegóły profilu</value>
     </key>
     <key name="feed_user_join">
-        <value>dołączył do naszej społecznośći!</value>
+        <value>dołączył do naszej społeczności!</value>
     </key>
     <key name="flag">
         <value>Zgłoś</value>
@@ -997,7 +997,7 @@
         <value>Zgłoszenie zostało już wysłane</value>
     </key>
     <key name="flag_as">
-        <value>Zgłoś to jako...</value>
+        <value>Zgłoś jako...</value>
     </key>
     <key name="flag_flag">
         <value>Zgłoś</value>
@@ -1069,22 +1069,22 @@
         <value>Wybierz</value>
     </key>
     <key name="form_element_submit_default_balue">
-        <value>Submit</value>
+        <value>Zatwierdź</value>
     </key>
     <key name="form_element_submit_default_value">
-        <value>Submit</value>
+        <value>Zatwierdź</value>
     </key>
     <key name="form_element_to">
-        <value>to</value>
+        <value>do</value>
     </key>
     <key name="form_element_year_range">
-        <value>(Year Range)</value>
+        <value>(Zakres lat)</value>
     </key>
     <key name="form_social_meta_logo_label">
-        <value>Logo in good quality</value>
+        <value>Logo w dobrej jakości</value>
     </key>
     <key name="form_validate_common_error_message">
-        <value>Please fill the form properly</value>
+        <value>Spróbuj wypełnić poprawnie</value>
     </key>
     <key name="form_validator_alphanumeric_error_message">
         <value>Alphanumeric validator error!</value>
@@ -1099,7 +1099,7 @@
         <value>Email validator error!</value>
     </key>
     <key name="form_validator_float_error_message">
-        <value>Value is incorrect or greater than server limit.</value>
+        <value>Wartość niepoprawna lub przekracza limit serwera.</value>
     </key>
     <key name="form_validator_int_error_message">
         <value>Int validator error!</value>
@@ -1855,7 +1855,7 @@
         <value>HTML is not allowed, please enter plain text</value>
     </key>
     <key name="invalid_user">
-        <value>User doesn't exist</value>
+        <value>Użytkownik nie istnieje</value>
     </key>
     <key name="join_activity_string">
         <value>&lt;a href="{$userUrl}"&gt;{$user}&lt;/a&gt; joined our site!</value>
@@ -1864,67 +1864,67 @@
         <value>&lt;a href="{$userUrl}"&gt;&lt;img src="{$avatarUrl}" alt="{$user}"&gt;&lt;/a&gt;</value>
     </key>
     <key name="join_connect_title">
-        <value>Sign in with</value>
+        <value>Zaloguj się przez</value>
     </key>
     <key name="join_error_email_already_exist">
-        <value>Sorry, this email is already used</value>
+        <value>Przepraszamy, ten email jest już zajęty</value>
     </key>
     <key name="join_error_email_not_valid">
-        <value>Please, enter a valid email address</value>
+        <value>Wprowadź poprawny adres mailowy</value>
     </key>
     <key name="join_error_password_not_valid">
-        <value>Please enter a valid password</value>
+        <value>Wprowadź poprawne hasło</value>
     </key>
     <key name="join_error_password_too_long">
-        <value>Password should have less than 15 characters</value>
+        <value>Hasło powinno zawierać mniej niż 15 znaków</value>
     </key>
     <key name="join_error_password_too_short">
-        <value>Password should have more than 4 characters</value>
+        <value>Hasło powinno zawierać więcej niż 4 znaki</value>
     </key>
     <key name="join_error_photo_file_is_not_valid">
-        <value>File type not allowed</value>
+        <value>Ten typ dokumentu nie jest dozwolony</value>
     </key>
     <key name="join_error_username_already_exist">
-        <value>Sorry, this username already exists</value>
+        <value>Przepraszamy, ta nazwa użytkownika już istnieje</value>
     </key>
     <key name="join_error_username_not_valid">
-        <value>Please, enter a valid username</value>
+        <value>Wprowadź poprawną nazwę użytkownika</value>
     </key>
     <key name="join_error_username_restricted">
-        <value>Sorry, this username is restricted</value>
+        <value>Przepraszamy, ta nazwa używtkownika nie jest dostępna</value>
     </key>
     <key name="join_form_title">
-        <value>Register your profile</value>
+        <value>Zarejestruj swój profil</value>
     </key>
     <key name="join_index">
-        <value>Join our community</value>
+        <value>Dołącz do naszej społeczności</value>
     </key>
     <key name="join_index_join_button">
-        <value>Join Now</value>
+        <value>Dołącz teraz</value>
     </key>
     <key name="join_index_new_to_site">
-        <value>New to site?</value>
+        <value>Nowa na stronie?</value>
     </key>
     <key name="join_not_valid_invite_code">
-        <value>Sorry, site registration is closed</value>
+        <value>Przepraszamy, rejestracja jest niedostępna</value>
     </key>
     <key name="join_or">
-        <value>OR</value>
+        <value>lub</value>
     </key>
     <key name="join_promo">
-        <value>Join our fast-growing community. Find new friends, date up, share photo and video.&#13;Enjoy!</value>
+        <value>Dołącz do naszej społeczności. Znajdź nowe przyjaciółki i dziel się swoimi przeżyciami.&#13;Udanej zabawy!</value>
     </key>
     <key name="join_submit_button_continue">
-        <value>Continue</value>
+        <value>Dalej</value>
     </key>
     <key name="join_submit_button_join">
-        <value>Join</value>
+        <value>Dołącz</value>
     </key>
     <key name="join_successful_join">
-        <value>Registration successful</value>
+        <value>Rejestracja zakończona powodzeniem</value>
     </key>
     <key name="local_page_content_page-119658">
-        <value>&lt;p class="ow_smallmargin"&gt;&#13;Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern our relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.&#13;&lt;/p&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;The term 'website' or 'us' or 'we' refers to the owner of the website. The term 'user' refers to the website visitor.&#13; &lt;/p&gt;&#13;&lt;p class="ow_smallmargin"&gt;&#13;The use of this website is subject to the following terms of use:&#13; &lt;/p&gt;&#13;&lt;ul class="ow_stdmargin ow_regular"&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;The content of the pages of this website is for user’s general information and use only. It is subject to change without notice.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;User acknowledges that neither we nor any third parties provide any warranties while the user is using this website for any particular purpose. We expressly exclude liability for any possible harm to the fullest extent permitted by law.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;User’s use of any information or materials on this website is entirely at their own risk, for which we shall not be liable. It shall be user’s own responsibility to ensure that any products, services or information available through this website meet user’s specific requirements.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;This website contains material that may be owned by or licensed to us. This material includes, but is not limited to the design, layout, look, appearance and graphics. Reproduction is prohibited other than upon receiving explicit permission.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;This website may also include links to other websites. These links are provided for user’s convenience to provide further information. They do not signify that we endorse said website(s). We have no responsibility for the content of the linked website(s).&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;User agrees not to submit illegal content to this website, and agree to warn website owners after seeing other users doing it.&#13;&lt;/li&gt;&#13;&lt;/ul&gt;</value>
+        <value>&lt;p class="ow_smallmargin"&gt;&#13;Witamy na naszej stronie. Kontynuując zgadzasz się z naszą polityką prywatności i zasadami obowiązującymi wszystkich użytkowników.&#13;&lt;/p&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;The term 'website' or 'us' or 'we' refers to the owner of the website. The term 'user' refers to the website visitor.&#13; &lt;/p&gt;&#13;&lt;p class="ow_smallmargin"&gt;&#13;The use of this website is subject to the following terms of use:&#13; &lt;/p&gt;&#13;&lt;ul class="ow_stdmargin ow_regular"&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;The content of the pages of this website is for user’s general information and use only. It is subject to change without notice.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;User acknowledges that neither we nor any third parties provide any warranties while the user is using this website for any particular purpose. We expressly exclude liability for any possible harm to the fullest extent permitted by law.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;User’s use of any information or materials on this website is entirely at their own risk, for which we shall not be liable. It shall be user’s own responsibility to ensure that any products, services or information available through this website meet user’s specific requirements.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;This website contains material that may be owned by or licensed to us. This material includes, but is not limited to the design, layout, look, appearance and graphics. Reproduction is prohibited other than upon receiving explicit permission.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;This website may also include links to other websites. These links are provided for user’s convenience to provide further information. They do not signify that we endorse said website(s). We have no responsibility for the content of the linked website(s).&#13; &lt;/li&gt;&#13;&lt;li class="ow_smallmargin"&gt;&#13;User agrees not to submit illegal content to this website, and agree to warn website owners after seeing other users doing it.&#13;&lt;/li&gt;&#13;&lt;/ul&gt;</value>
     </key>
     <key name="local_page_content_page-225003"/>
     <key name="local_page_content_page-283934"/>
@@ -1959,7 +1959,7 @@
     <key name="local_page_content_page_7680520"/>
     <key name="local_page_content_page_80273168"/>
     <key name="local_page_content_page_81959573">
-        <value>&lt;p class="ow_smallmargin"&gt;&#13;Thank you for visiting our website. This privacy policy tells you how we use personal information collected at this website. Please read this privacy policy before using the website or submitting any personal information. By using the website, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to keep track of the policy changes and make sure that you understand how any personal information you provide will be used.&#13;&lt;/p&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;Note: the privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted at those websites.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Collection of Information&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request and to sign you up for our service mailing list, unless you give us permission to use it in other manners.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Cookie/Tracking Technology&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;This website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the website, and understanding how visitors use the website. Cookies can also help customize the website for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Distribution of Information&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Commitment to Data Security&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this website allow you to opt out of further mailings.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Privacy Contact Information&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;If you have any questions, concerns, or comments about our privacy policy you may contact us using means provided on this website.&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;We reserve the right to make changes to this policy. Any changes to this policy will be posted.&#13;&lt;/p&gt;</value>
+        <value>&lt;p class="ow_smallmargin"&gt;&#13;Dziękujemy za odwiedzenie naszej strony. Polityka prywatności informuje jak przetwarzamy zbieramy dane osobiste na tej stronie. Przeczytaj aby dowiedzieć się więcej zanim zaakceptujesz. Korzystając z naszej strony, akceptujesz naszą politykę prywatności. Zasady mogą ulec zmianie, nie mniej jednak każda zmiana będzie udostępniana. Zachęcamy do zapoznawania się z polityką prywatności kiedy odwiedzisz naszą strone aby upewnić się i zrozumieć jak działa polityka prywatności na tej stronie.&#13;&lt;/p&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;Note: the privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted at those websites.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Collection of Information&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request and to sign you up for our service mailing list, unless you give us permission to use it in other manners.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Cookie/Tracking Technology&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;This website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the website, and understanding how visitors use the website. Cookies can also help customize the website for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Distribution of Information&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Commitment to Data Security&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this website allow you to opt out of further mailings.&#13;&lt;/p&gt;&#13;&lt;h2 class="ow_smallmargin"&gt;Privacy Contact Information&lt;/h2&gt;&#13;&lt;p class="ow_stdmargin"&gt;&#13;If you have any questions, concerns, or comments about our privacy policy you may contact us using means provided on this website.&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;We reserve the right to make changes to this policy. Any changes to this policy will be posted.&#13;&lt;/p&gt;</value>
     </key>
     <key name="local_page_content_page_88027910"/>
     <key name="local_page_content_page_99448870"/>
@@ -2046,32 +2046,32 @@
     <key name="local_page_title_page_7680520"/>
     <key name="local_page_title_page_80273168"/>
     <key name="local_page_title_page_81959573">
-        <value>Privacy Policy</value>
+        <value>Polityka prywatności</value>
     </key>
     <key name="local_page_title_page_88027910"/>
     <key name="local_page_title_page_99448870"/>
     <key name="local_page_title_page_iqah4tij">
-        <value>Search</value>
+        <value>Znajdź przyjaciółkę</value>
     </key>
     <key name="local_page_title_test"/>
     <key name="local_page_title_test2"/>
     <key name="mail_template_admin_invite_user_content_html">
-        <value>&lt;p&gt;&#13;Hi,&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;We invite you to join our website - {$site_name}.&lt;br /&gt;&#13;Please register &lt;a href="{$url}"&gt;here&lt;/a&gt;&#13;&lt;/p&gt;&#13;Administration&lt;br /&gt;&#13;{$site_url}</value>
+        <value>&lt;p&gt;&#13;Hi,&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;Zapraszamy do dołączenia do naszej społęczności - {$site_name}.&lt;br /&gt;&#13;Zarejestruj się &lt;a href="{$url}"&gt;here&lt;/a&gt;&#13;&lt;/p&gt;&#13;Administracja&lt;br /&gt;&#13;{$site_url}</value>
     </key>
     <key name="mail_template_admin_invite_user_content_text">
-        <value>Hi,&#13;&#13;We invite you to join our website - {$site_name}.&#13;Please join here: {$url}&#13;&#13;Administration&#13;{$site_url}</value>
+        <value>Cześć,&#13;&#13;Dołącz do naszej społeczności Frenda - {$site_name}.&#13;Dołącz: {$url}&#13;&#13;Administracja&#13;{$site_url}</value>
     </key>
     <key name="mail_template_admin_invite_user_subject">
-        <value>Invitation to {$site_name}</value>
+        <value>Zaproszenie do {$site_name}</value>
     </key>
     <key name="maintenance_disable_message">
         <value>Follow this &lt;a href="{$url}"&gt;link&lt;/a&gt; to disable maintenance mode</value>
     </key>
     <key name="main_menu_index">
-        <value>Main</value>
+        <value>Menu główne</value>
     </key>
     <key name="main_menu_my_profile">
-        <value>My Profile</value>
+        <value>Profil</value>
     </key>
     <key name="manage_plugins_add_success_message">
         <value>Plugin is uploaded and ready for installation</value>
@@ -2104,19 +2104,19 @@
         <value>(Server limit {$value} Mb)</value>
     </key>
     <key name="media_panel_file_deleted">
-        <value>Deleted</value>
+        <value>Usunięte</value>
     </key>
     <key name="message_invitation">
-        <value>Message</value>
+        <value>Wiadomość</value>
     </key>
     <key name="message_label">
-        <value>Message</value>
+        <value>Wiadomość</value>
     </key>
     <key name="message_send">
-        <value>Message was sent</value>
+        <value>Wiadomość została wysłana</value>
     </key>
     <key name="meta_desc_forgot_pass">
-        <value>Enter the email you used during registration for {$site_name} to receive a new password.</value>
+        <value>Wprowadź adres mailowy użyty podczas rejestracji {$site_name}aby uzyskać nowe hasło.</value>
     </key>
     <key name="meta_desc_index">
         <value>{$site_name} social network. Meet new friends here today!</value>
@@ -2131,13 +2131,13 @@
         <value>Sign in to your {$site_name} site and meet new people!</value>
     </key>
     <key name="meta_desc_user_list">
-        <value>View {$user_list} users at {$site_name}. Join us and meet new people today!</value>
+        <value>View {$user_list} users at {$site_name}. DOłącz do nas i poznawaj nowych ludzi!</value>
     </key>
     <key name="meta_desc_user_page">
-        <value>Chat with {$user_name}, {$user_age} at {$site_name}.</value>
+        <value>Rozmawiaj z {$user_name}, {$user_age} at {$site_name}.</value>
     </key>
     <key name="meta_desc_user_search">
-        <value>Search members at {$site_name}, and find someone you like!</value>
+        <value>Dołącz do {$site_name}, znajdź kogoś równie zwariowanego!</value>
     </key>
     <key name="meta_keywords_forgot_pass">
         <value></value>
@@ -2164,148 +2164,148 @@
         <value></value>
     </key>
     <key name="meta_title_forgot_pass">
-        <value>Forgot password for {$site_name}?</value>
+        <value>Zapomniałaś hasła {$site_name}?</value>
     </key>
     <key name="meta_title_index">
-        <value>{$site_name} - Find New Friends Here!</value>
+        <value>{$site_name} - Znajdź bratnią duszę!</value>
     </key>
     <key name="meta_title_join">
-        <value>Join {$site_name} - Find Friends Here!</value>
+        <value>Dołącz {$site_name} - Znajdź bratnią duszę!</value>
     </key>
     <key name="meta_title_search_result">
         <value>Your search results for {$site_name}</value>
     </key>
     <key name="meta_title_sign_in">
-        <value>Sign in to {$site_name} - Find Friends Here!</value>
+        <value>Zaloguj się {$site_name} - Znajdź swoją bratnią duszę!</value>
     </key>
     <key name="meta_title_user_list">
-        <value>{$user_list} users | {$site_name}</value>
+        <value>{$user_list} użytkowniczki | {$site_name}</value>
     </key>
     <key name="meta_title_user_page">
         <value>{$user_name}, {$user_age} | {$site_name}</value>
     </key>
     <key name="meta_title_user_search">
-        <value>User Search | {$site_name}</value>
+        <value>Znajdź przyjaciółkę | {$site_name}</value>
     </key>
     <key name="mobile_disabled_item_message">
-        <value>This is not available on mobile yet. Try &lt;a href="{$url}"&gt;desktop version&lt;/a&gt;.</value>
+        <value>Wersja mobilna nie jest jeszcze dostępna. Spróbuj &lt;a href="{$url}"&gt;wersji na komputer&lt;/a&gt;.</value>
     </key>
     <key name="mobile_notifications_console_empty">
-        <value>No items</value>
+        <value>Brak powiadomień</value>
     </key>
     <key name="mobile_version_menu_item">
-        <value>Mobile version</value>
+        <value>Wersja mobilna</value>
     </key>
     <key name="moderation_action">
-        <value>Action</value>
+        <value>Działania</value>
     </key>
     <key name="moderation_delete_confirmation">
-        <value>Are you sure you want to delete this {$content}?</value>
+        <value>Jesteś pewien, że chcesz usunąć {$content}?</value>
     </key>
     <key name="moderation_delete_multiple_confirmation">
-        <value>Are you sure you want to delete {$count} {$content}?</value>
+        <value>Jesteś pewien, że chcesz usunąć {$count} {$content}?</value>
     </key>
     <key name="moderation_feedback_delete">
-        <value>{$content} has been deleted</value>
+        <value>{$content} zostało usunięte</value>
     </key>
     <key name="moderation_feedback_delete_multiple">
-        <value>{$count} {$content} have been deleted</value>
+        <value>{$count} {$content} zostało usunięte</value>
     </key>
     <key name="moderation_feedback_unflag">
-        <value>{$content} has been unflagged</value>
+        <value>{$content} została odznaczona</value>
     </key>
     <key name="moderation_feedback_unflag_multiple">
-        <value>{$count} {$content} have been unflagged</value>
+        <value>{$count} {$content} została odznaczona</value>
     </key>
     <key name="moderation_flags_item_string">
-        <value>&lt;a href="{$userUrl}"&gt;&lt;b&gt;{$userName}'s&lt;/b&gt;&lt;/a&gt; {$content} has been flagged</value>
+        <value>&lt;a href="{$userUrl}"&gt;&lt;b&gt;{$userName}'s&lt;/b&gt;&lt;/a&gt; {$content}została oznaczona</value>
     </key>
     <key name="moderation_no_items">
-        <value>No items</value>
+        <value>Brak powiadomień</value>
     </key>
     <key name="moderation_no_items_warning">
-        <value>No items selected</value>
+        <value>Nie wybrano powiadomienia</value>
     </key>
     <key name="moderation_panel">
-        <value>Moderator Panel</value>
+        <value>Panel Moderacji</value>
     </key>
     <key name="moderation_reason">
-        <value>Reason</value>
+        <value>Powód</value>
     </key>
     <key name="moderation_reporter">
-        <value>Reporter</value>
+        <value>Zgłaszanie</value>
     </key>
     <key name="moderation_tools">
-        <value>Moderation Tools</value>
+        <value>Narzędzia moderacji</value>
     </key>
     <key name="moderation_user_update">
-        <value>Updated their profile. &lt;a href="{$profileUrl}"&gt;View profile&lt;/a&gt;</value>
+        <value>Zaktualizowano profile. &lt;a href="{$profileUrl}"&gt;Zobacz profile&lt;/a&gt;</value>
     </key>
     <key name="moderator_panel">
-        <value>Moderator Panel</value>
+        <value>Panel moderacji</value>
     </key>
     <key name="month">
-        <value>Month</value>
+        <value>Miesiąc</value>
     </key>
     <key name="month_1">
-        <value>January</value>
+        <value>Styczeń</value>
     </key>
     <key name="month_10">
-        <value>October</value>
+        <value>Październik</value>
     </key>
     <key name="month_11">
-        <value>November</value>
+        <value>Listopad</value>
     </key>
     <key name="month_12">
-        <value>December</value>
+        <value>Grudzień</value>
     </key>
     <key name="month_2">
-        <value>February</value>
+        <value>Luty</value>
     </key>
     <key name="month_3">
-        <value>March</value>
+        <value>Marzec</value>
     </key>
     <key name="month_4">
-        <value>April</value>
+        <value>Kwiecień</value>
     </key>
     <key name="month_5">
-        <value>May</value>
+        <value>Maj</value>
     </key>
     <key name="month_6">
-        <value>June</value>
+        <value>Czerwiec</value>
     </key>
     <key name="month_7">
-        <value>July</value>
+        <value>Lipiec</value>
     </key>
     <key name="month_8">
-        <value>August</value>
+        <value>Sierpień</value>
     </key>
     <key name="month_9">
-        <value>September</value>
+        <value>Wrzesień</value>
     </key>
     <key name="more">
-        <value>More</value>
+        <value>Więcej</value>
     </key>
     <key name="mp_gal_align">
-        <value>Align</value>
+        <value>Wyrównaj</value>
     </key>
     <key name="mp_gal_center">
-        <value>Center</value>
+        <value>Srodek</value>
     </key>
     <key name="mp_gal_delete">
-        <value>remove</value>
+        <value>Usuń</value>
     </key>
     <key name="mp_gal_fullsize">
-        <value>Fullsize</value>
+        <value>Całe zdjęcie</value>
     </key>
     <key name="mp_gal_hide">
-        <value>hide</value>
+        <value>ukryj</value>
     </key>
     <key name="mp_gal_ins_into_post">
         <value>Insert into post</value>
     </key>
     <key name="mp_gal_left">
-        <value>Left</value>
+        <value>Lewo</value>
     </key>
     <key name="mp_gal_none">
         <value>None</value>
@@ -2314,40 +2314,40 @@
         <value>URL</value>
     </key>
     <key name="mp_gal_preview">
-        <value>Preview</value>
+        <value>Podgląd</value>
     </key>
     <key name="mp_gal_right">
-        <value>Right</value>
+        <value>Prawo</value>
     </key>
     <key name="mp_gal_show">
-        <value>show</value>
+        <value>pokaż</value>
     </key>
     <key name="my_avatar_widget">
-        <value>My profile</value>
+        <value>Profil</value>
     </key>
     <key name="my_blocked_users">
-        <value>Blocked Users</value>
+        <value>Zablokowane użytkowniczki</value>
     </key>
     <key name="my_profile_heading">
-        <value>My Profile</value>
+        <value>Zobacz profil</value>
     </key>
     <key name="my_profile_title">
-        <value>My profile</value>
+        <value>Profil</value>
     </key>
     <key name="new_message_count_text">
-        <value>You have {$count} new messages</value>
+        <value>{$count} nowych wiadomośći</value>
     </key>
     <key name="no">
-        <value>No</value>
+        <value>Nie</value>
     </key>
     <key name="notification_section_label">
-        <value>Base</value>
+        <value>Podstawa</value>
     </key>
     <key name="not_valid_image">
-        <value>The image is not valid</value>
+        <value>Nie można wczytać zdjęcia</value>
     </key>
     <key name="not_writable_avatar_dir">
-        <value>Avatars folder is missing or not writable.</value>
+        <value>Brak folderu lub nie można go zapisać.</value>
     </key>
     <key name="no_items">
         <value>No items</value>
@@ -2356,11 +2356,11 @@
         <value>Community software</value>
     </key>
     <key name="or">
-        <value>or</value>
+        <value>lub</value>
     </key>
     <key name="owner_trans_late"/>
     <key name="page-119658">
-        <value>Terms of use</value>
+        <value>Warunki korzystania</value>
     </key>
     <key name="page-290357"/>
     <key name="page-293630"/>
@@ -2372,16 +2372,16 @@
     <key name="page-796397"/>
     <key name="page-939960"/>
     <key name="pages_add_item">
-        <value>Add Item</value>
+        <value>Dodaj</value>
     </key>
     <key name="pages_add_submit">
-        <value>Submit</value>
+        <value>Zatwierdź</value>
     </key>
     <key name="pages_back">
-        <value>Back</value>
+        <value>Wróć</value>
     </key>
     <key name="pages_label">
-        <value>Pages:</value>
+        <value>Strony:</value>
     </key>
     <key name="pages_page_meta_desc_desc">
         <value>Recommended description length is up to 150 symbols</value>
@@ -2396,7 +2396,7 @@
         <value>Meta keywords</value>
     </key>
     <key name="pages_wrong_local_url">
-        <value>Invalid URL</value>
+        <value>Nieprawidłowy URL</value>
     </key>
     <key name="page_10919570"/>
     <key name="page_13904610"/>
@@ -2426,12 +2426,12 @@
     <key name="page_73405194"/>
     <key name="page_80273168"/>
     <key name="page_81959573">
-        <value>Privacy Policy</value>
+        <value>Polityka prywatności</value>
     </key>
     <key name="page_88027910"/>
     <key name="page_99448870"/>
     <key name="page_iqah4tij">
-        <value>Search</value>
+        <value>Wyszukaj</value>
     </key>
     <key name="paging_label_first">
         <value>««</value>
@@ -2446,70 +2446,70 @@
         <value>«</value>
     </key>
     <key name="password_protection_cap_label">
-        <value>Enter Password</value>
+        <value>Wprowadź hasło</value>
     </key>
     <key name="password_protection_error_message">
-        <value>Invalid password</value>
+        <value>Nieprawidłowe hasło</value>
     </key>
     <key name="password_protection_submit_label">
-        <value>Enter</value>
+        <value>Wprowadź</value>
     </key>
     <key name="password_protection_success_message">
-        <value>Redirecting...</value>
+        <value>Przekierowywanie...</value>
     </key>
     <key name="password_protection_text">
-        <value>Sorry, site is closed for public view.</value>
+        <value>Przepraszmy, strona nie jest dostępna.</value>
     </key>
     <key name="pending_approval">
         <value>Pending Approval</value>
     </key>
     <key name="preference_index">
-        <value>My Preferences</value>
+        <value>Moje ustawienia</value>
     </key>
     <key name="preference_mass_mailing_subscribe_description">
-        <value>Uncheck this box to stop receiving mass-mailing</value>
+        <value>Odznacz aby zaprzestać otrzymywć newsletter</value>
     </key>
     <key name="preference_mass_mailing_subscribe_label">
-        <value>Subscribe to newsletter</value>
+        <value>Subskrybuj newsletter</value>
     </key>
     <key name="preference_menu_item">
-        <value>General</value>
+        <value>Ogólne</value>
     </key>
     <key name="preference_no_items">
-        <value>no items</value>
+        <value>Brak powiadomień</value>
     </key>
     <key name="preference_preference_data_not_changed">
-        <value>Settings not changed</value>
+        <value>Ustawienia nie zostały zapisane</value>
     </key>
     <key name="preference_preference_data_was_saved">
-        <value>Settings changed</value>
+        <value>Ustawienia zostały zapisane</value>
     </key>
     <key name="preference_section_general">
-        <value>Mass Mailing</value>
+        <value>Wiadomości</value>
     </key>
     <key name="preference_submit_button">
-        <value>Save</value>
+        <value>Zapisz</value>
     </key>
     <key name="privacy_action_view_my_presence_on_site">
-        <value>View my presence on site</value>
+        <value>Zobacz moją aktywność na stronie</value>
     </key>
     <key name="privacy_action_view_profile">
-        <value>View my profile</value>
+        <value>Profil</value>
     </key>
     <key name="profile_comment_notification">
         <value>&lt;a href="{$userUrl}"&gt;{$userName}&lt;/a&gt; commented on &lt;a href="{$profileUrl}"&gt;your profile&lt;/a&gt;.</value>
     </key>
     <key name="profile_toolbar_group_moderation">
-        <value>Moderation</value>
+        <value>Moderacja</value>
     </key>
     <key name="profile_toolbar_user_approve_label">
-        <value>Approve</value>
+        <value>Zatwierdź</value>
     </key>
     <key name="profile_toolbar_user_delete_label">
-        <value>Delete</value>
+        <value>Usuń</value>
     </key>
     <key name="profile_view_description">
-        <value>The public profile of {$username} at {$site_name}.</value>
+        <value>Profil publiczny {$username} w {$site_name}.</value>
     </key>
     <key name="profile_view_heading">
         <value>{$username}</value>
@@ -2521,7 +2521,7 @@
     <key name="questions_account_type_1b4bbdb5419b2352aa276a7f58a585fa"/>
     <key name="questions_account_type_1d739511fd0b218115cada0a8bf4ef7a"/>
     <key name="questions_account_type_290365aadde35a97f11207ca7e4279cc">
-        <value>Standard</value>
+        <value>Standardowy</value>
     </key>
     <key name="questions_account_type_77f92557420351da5a45e37a13857657"/>
     <key name="questions_account_type_7f23216f76dfbd9e7f6dacd58ea58beb">
@@ -2529,11 +2529,11 @@
     </key>
     <key name="questions_account_type_808aa8ca354f51c5a3868dad5298cd72"/>
     <key name="questions_account_type_8c103538900bda26f08d9ccd2aad61f8">
-        <value>Private</value>
+        <value>Prywatny</value>
     </key>
     <key name="questions_account_type_8cc28eaddb382d7c6a94aeea9ec029fb"/>
     <key name="questions_account_type_all">
-        <value>All account types</value>
+        <value>Wszystkie typy konta</value>
     </key>
     <key name="questions_account_type_bae2d6a03a55b35fa1f9e323ccf85a14"/>
     <key name="questions_account_type_bbce024dcdba7bc40c2473010b462e48"/>
@@ -2560,31 +2560,31 @@
         <value>Delete</value>
     </key>
     <key name="questions_admin_description_label">
-        <value>Short description if necessary</value>
+        <value>Wymagany krótki opis</value>
     </key>
     <key name="questions_admin_edit_label">
-        <value>Edit</value>
+        <value>Edytuj</value>
     </key>
     <key name="questions_admin_question_label">
-        <value>Question</value>
+        <value>Pytanie</value>
     </key>
     <key name="questions_age_year_old">
-        <value>y.o.</value>
+        <value>lat.</value>
     </key>
     <key name="questions_checkbox_value_false">
         <value>No</value>
     </key>
     <key name="questions_checkbox_value_true">
-        <value>Yes</value>
+        <value>Tak</value>
     </key>
     <key name="questions_config_date_field_format_dmy">
-        <value>day/month/year</value>
+        <value>dzień/miesiąc/rok</value>
     </key>
     <key name="questions_config_date_field_format_label">
-        <value>Date format</value>
+        <value>Format daty</value>
     </key>
     <key name="questions_config_date_field_format_mdy">
-        <value>month/day/year</value>
+        <value>miesiąc/dzień/rok</value>
     </key>
     <key name="questions_config_user_view_presentation_description">
         <value>If you have many profile questions it may be helpful to view sections as tabs on profile view page.</value>
@@ -2605,7 +2605,7 @@
         <value>No value</value>
     </key>
     <key name="questions_menu_add">
-        <value>Add Question</value>
+        <value>Dodaj pytanie</value>
     </key>
     <key name="questions_menu_editAccountType">
         <value>Edit Account Types</value>
@@ -2634,19 +2634,19 @@
     <key name="questions_question_0fbf517c6c3eb5c266894b51bdd07700_value_8"/>
     <key name="questions_question_0fe69011e890106732951b49d131490c_description"/>
     <key name="questions_question_0fe69011e890106732951b49d131490c_label">
-        <value>Sport activities</value>
+        <value>Aktywność sportowa</value>
     </key>
     <key name="questions_question_0fe69011e890106732951b49d131490c_value_1">
-        <value>Football</value>
+        <value>Piłka nożna</value>
     </key>
     <key name="questions_question_0fe69011e890106732951b49d131490c_value_2">
-        <value>Tennis</value>
+        <value>Tenis</value>
     </key>
     <key name="questions_question_0fe69011e890106732951b49d131490c_value_4">
-        <value>Basketball</value>
+        <value>Koszykówka</value>
     </key>
     <key name="questions_question_0fe69011e890106732951b49d131490c_value_8">
-        <value>Volleyball</value>
+        <value>Siatkówka</value>
     </key>
     <key name="questions_question_1159a7f08df51508e06a1c1d6661dc9e_description"/>
     <key name="questions_question_1159a7f08df51508e06a1c1d6661dc9e_label"/>
@@ -2700,10 +2700,10 @@
     <key name="questions_question_31d5d3d7ff420e340cfe3f17c534eba3_value_4"/>
     <key name="questions_question_31d5d3d7ff420e340cfe3f17c534eba3_value_8"/>
     <key name="questions_question_36e39f917cbcf4fb10aa753186ced60d_description">
-        <value>Hair</value>
+        <value>Włosy</value>
     </key>
     <key name="questions_question_36e39f917cbcf4fb10aa753186ced60d_label">
-        <value>Your hair color</value>
+        <value>Twój kolor włosów</value>
     </key>
     <key name="questions_question_36e39f917cbcf4fb10aa753186ced60d_value_1"/>
     <key name="questions_question_36e39f917cbcf4fb10aa753186ced60d_value_1024"/>
@@ -2777,7 +2777,7 @@
     <key name="questions_question_5c0deee243b326ba7c44bb110bdf62b8_label"/>
     <key name="questions_question_5eab269060488cd69d49fbe31c9cb0a1_description"/>
     <key name="questions_question_5eab269060488cd69d49fbe31c9cb0a1_label">
-        <value>Hair</value>
+        <value>Włosy</value>
     </key>
     <key name="questions_question_5eab269060488cd69d49fbe31c9cb0a1_value_1"/>
     <key name="questions_question_5eab269060488cd69d49fbe31c9cb0a1_value_2"/>
@@ -2859,41 +2859,41 @@
     <key name="questions_question_9221d78a4201eac23c972e1d4aa2cee6_label"/>
     <key name="questions_question_96c41d906ac020757eae6a0ba339e398_description"/>
     <key name="questions_question_96c41d906ac020757eae6a0ba339e398_label">
-        <value>Match Sport activities</value>
+        <value>Dopasuj aktywność sportową</value>
     </key>
     <key name="questions_question_96c41d906ac020757eae6a0ba339e398_value_1">
-        <value>Football</value>
+        <value>Piłka nożna</value>
     </key>
     <key name="questions_question_96c41d906ac020757eae6a0ba339e398_value_2">
-        <value>Tennis</value>
+        <value>Tenis</value>
     </key>
     <key name="questions_question_96c41d906ac020757eae6a0ba339e398_value_4">
-        <value>Basketball</value>
+        <value>Koszykówka</value>
     </key>
     <key name="questions_question_96c41d906ac020757eae6a0ba339e398_value_8">
-        <value>Volleyball</value>
+        <value>Siatkówka</value>
     </key>
     <key name="questions_question_9c187792aa5cda7256f032ed2e517512_description"/>
     <key name="questions_question_9c187792aa5cda7256f032ed2e517512_label"/>
     <key name="questions_question_9f427b5a957edde93cc955fa13971799_description"/>
     <key name="questions_question_9f427b5a957edde93cc955fa13971799_label"/>
     <key name="questions_question_a023dd4e406571f6e805e52e5dd9b9ef_description">
-        <value>Your sport activities</value>
+        <value>Twoja aktywność sportowa</value>
     </key>
     <key name="questions_question_a023dd4e406571f6e805e52e5dd9b9ef_label">
-        <value>Sport Activities</value>
+        <value>Aktywność sportowa</value>
     </key>
     <key name="questions_question_a023dd4e406571f6e805e52e5dd9b9ef_value_1">
-        <value>Football</value>
+        <value>Piłka nożna</value>
     </key>
     <key name="questions_question_a023dd4e406571f6e805e52e5dd9b9ef_value_2">
-        <value>Basketball</value>
+        <value>Koszykówka</value>
     </key>
     <key name="questions_question_a023dd4e406571f6e805e52e5dd9b9ef_value_4">
-        <value>Volleyball</value>
+        <value>Siatkówka</value>
     </key>
     <key name="questions_question_a023dd4e406571f6e805e52e5dd9b9ef_value_8">
-        <value>Tennis</value>
+        <value>Tenis</value>
     </key>
     <key name="questions_question_a5115de7f38988e748370a59ba0b311d_description"/>
     <key name="questions_question_a5115de7f38988e748370a59ba0b311d_label"/>
@@ -2918,13 +2918,13 @@
     <key name="questions_question_aboutme_description"/>
     <key name="questions_question_aboutme_label"/>
     <key name="questions_question_accountType_description">
-        <value>Choose account type</value>
+        <value>Wybierz rodzaj konta</value>
     </key>
     <key name="questions_question_accountType_label">
-        <value>Account type</value>
+        <value>Rodzaj konta</value>
     </key>
     <key name="questions_question_account_type_label">
-        <value>Account Type</value>
+        <value>Rodzaj konta</value>
     </key>
     <key name="questions_question_b3f2104388bb438d50c0ea37247fab5f_description"/>
     <key name="questions_question_b3f2104388bb438d50c0ea37247fab5f_label"/>
@@ -2945,10 +2945,10 @@
     <key name="questions_question_b9b93e695cbc4475751d3fa98a417832_value_8"/>
     <key name="questions_question_birthdate_description"/>
     <key name="questions_question_birthdate_label">
-        <value>Birthday</value>
+        <value>Urodziny</value>
     </key>
     <key name="questions_question_birthday_label_presentation_age">
-        <value>Age</value>
+        <value>Wiek</value>
     </key>
     <key name="questions_question_c441a8a9b955647cdf4c81562d39068a_description"/>
     <key name="questions_question_c441a8a9b955647cdf4c81562d39068a_label"/>
@@ -3086,43 +3086,43 @@
         <value></value>
     </key>
     <key name="questions_question_field_1f9c1dcdb18599211f4483169f621c36_label">
-        <value>Hobby</value>
+        <value>Zaintersowania</value>
     </key>
     <key name="questions_question_field_1f9c1dcdb18599211f4483169f621c36_value_1">
-        <value>Music</value>
+        <value>Muzyka</value>
     </key>
     <key name="questions_question_field_1f9c1dcdb18599211f4483169f621c36_value_128">
-        <value>Self-development</value>
+        <value>Rozwój osobisty</value>
     </key>
     <key name="questions_question_field_1f9c1dcdb18599211f4483169f621c36_value_16">
-        <value>Video games</value>
+        <value>Gry komputerowe</value>
     </key>
     <key name="questions_question_field_1f9c1dcdb18599211f4483169f621c36_value_2">
-        <value>Books</value>
+        <value>Książki</value>
     </key>
     <key name="questions_question_field_1f9c1dcdb18599211f4483169f621c36_value_32">
-        <value>Singing</value>
+        <value>Śpiewanie</value>
     </key>
     <key name="questions_question_field_1f9c1dcdb18599211f4483169f621c36_value_4">
-        <value>Movies</value>
+        <value>Filmy</value>
     </key>
     <key name="questions_question_field_1f9c1dcdb18599211f4483169f621c36_value_64">
-        <value>Art</value>
+        <value>Sztuka</value>
     </key>
     <key name="questions_question_field_1f9c1dcdb18599211f4483169f621c36_value_8">
-        <value>Body care</value>
+        <value>Moda i kosmetyki</value>
     </key>
     <key name="questions_question_field_2014b887ee89876a5d2deb4ef8403961_description">
         <value></value>
     </key>
     <key name="questions_question_field_2014b887ee89876a5d2deb4ef8403961_label">
-        <value>Sports</value>
+        <value>Sport</value>
     </key>
     <key name="questions_question_field_20b59e1aa3984b582253e7a4b5cc55a2_description">
         <value></value>
     </key>
     <key name="questions_question_field_20b59e1aa3984b582253e7a4b5cc55a2_label">
-        <value>Parties</value>
+        <value>Imprezowanie</value>
     </key>
     <key name="questions_question_field_3423a242a104e060754f5493741bf88b_description"/>
     <key name="questions_question_field_3423a242a104e060754f5493741bf88b_label"/>
@@ -3130,25 +3130,25 @@
         <value></value>
     </key>
     <key name="questions_question_field_713e35564c2c272f04d9402c7a8d5258_label">
-        <value>Maternity</value>
+        <value>Macieżyństwo</value>
     </key>
     <key name="questions_question_field_8bb27de48e6fcd242c0136972c2ceac5_description">
         <value></value>
     </key>
     <key name="questions_question_field_8bb27de48e6fcd242c0136972c2ceac5_label">
-        <value>Shopping</value>
+        <value>Zakupy</value>
     </key>
     <key name="questions_question_field_8e89d014d16b808c0b11c92eaac58605_description">
         <value></value>
     </key>
     <key name="questions_question_field_8e89d014d16b808c0b11c92eaac58605_label">
-        <value>Age</value>
+        <value>Wiek</value>
     </key>
     <key name="questions_question_field_9e3513736717830a364ed20c7ccc68df_description">
         <value></value>
     </key>
     <key name="questions_question_field_9e3513736717830a364ed20c7ccc68df_label">
-        <value>Travelling</value>
+        <value>Podróże</value>
     </key>
     <key name="questions_question_field_d4492405b06aa44625c25fce4f077e47_description"/>
     <key name="questions_question_field_d4492405b06aa44625c25fce4f077e47_label"/>
@@ -3187,13 +3187,13 @@
         <value></value>
     </key>
     <key name="questions_question_field_de7ff9db39e6445254f5b366cb33b6f5_label">
-        <value>City</value>
+        <value>Miasto</value>
     </key>
     <key name="questions_question_field_def7fbe45c7129ca9d27212e1f09cc47_description">
         <value></value>
     </key>
     <key name="questions_question_field_def7fbe45c7129ca9d27212e1f09cc47_label">
-        <value>Voivodeship</value>
+        <value>Województwo</value>
     </key>
     <key name="questions_question_field_def7fbe45c7129ca9d27212e1f09cc47_value_1">
         <value>dolnośląskie</value>
@@ -3276,11 +3276,11 @@
     <key name="questions_question_field_f601014ed0ceba2d4e25606de1992eba_value_8388608"/>
     <key name="questions_question_googlemap_location_description"/>
     <key name="questions_question_googlemap_location_label">
-        <value>Location</value>
+        <value>Lokalizacja</value>
     </key>
     <key name="questions_question_joinStamp_description"/>
     <key name="questions_question_joinStamp_label">
-        <value>Join Date</value>
+        <value>Data dołączenia</value>
     </key>
     <key name="questions_question_match_118af0f3559b872c87467a5a89edf03e_label"/>
     <key name="questions_question_match_2b29f145d9d1128a3f57d3af6798fc85_label"/>
@@ -3289,13 +3289,13 @@
     <key name="questions_question_match_6341ee69d879c97cb0c47507a557372c_label"/>
     <key name="questions_question_match_739a83996f701966485290779f4ff2b5_description"/>
     <key name="questions_question_match_739a83996f701966485290779f4ff2b5_label">
-        <value>My match's eee</value>
+        <value>Moje dopasowania</value>
     </key>
     <key name="questions_question_match_a023dd4e406571f6e805e52e5dd9b9ef_label"/>
     <key name="questions_question_match_a69350b819c8dc1d926cba6b58451f5f_label"/>
     <key name="questions_question_match_age_description"/>
     <key name="questions_question_match_age_label">
-        <value>Match Age</value>
+        <value>W podobnym wieku</value>
     </key>
     <key name="questions_question_match_c5dc53f371fe6ba3001a7c7e31bd95fc_label"/>
     <key name="questions_question_match_relationship_label"/>
@@ -3308,34 +3308,34 @@
         <value>&amp;nbsp;</value>
     </key>
     <key name="questions_question_password_label">
-        <value>Password</value>
+        <value>Hasło</value>
     </key>
     <key name="questions_question_presentation_age_label">
-        <value>Date (Age)</value>
+        <value>Data (Wiek)</value>
     </key>
     <key name="questions_question_presentation_birthdate_label">
-        <value>Date (Birthdate)</value>
+        <value>Data urodzin</value>
     </key>
     <key name="questions_question_presentation_checkbox_label">
-        <value>Yes/No</value>
+        <value>Tak/Nie</value>
     </key>
     <key name="questions_question_presentation_date_label">
-        <value>Date</value>
+        <value>Data</value>
     </key>
     <key name="questions_question_presentation_fselect_label">
-        <value>Single Choice - Regular (Slower results, unlimited)</value>
+        <value>Pojedynczy wybór </value>
     </key>
     <key name="questions_question_presentation_multicheckbox_label">
-        <value>Multiple choice</value>
+        <value>Wielokrotny wybór</value>
     </key>
     <key name="questions_question_presentation_password_label">
-        <value>Password</value>
+        <value>Hasło</value>
     </key>
     <key name="questions_question_presentation_radio_label">
         <value>Single choice (radiobutton)</value>
     </key>
     <key name="questions_question_presentation_range_label">
-        <value>Range</value>
+        <value>Przedział</value>
     </key>
     <key name="questions_question_presentation_select_label">
         <value>Single Choice - Optimized (Faster results, limited values)</value>
@@ -3350,10 +3350,10 @@
         <value>URL</value>
     </key>
     <key name="questions_question_realname_description">
-        <value>First name and Last name</value>
+        <value>Wpisz swoje imię</value>
     </key>
     <key name="questions_question_realname_label">
-        <value>Real name</value>
+        <value>Imię</value>
     </key>
     <key name="questions_question_relationship_description"/>
     <key name="questions_question_relationship_label"/>
@@ -3364,33 +3364,33 @@
     <key name="questions_question_relationship_value_8"/>
     <key name="questions_question_repeatPassword_description"/>
     <key name="questions_question_repeat_password_label">
-        <value>Repeat password</value>
+        <value>Powtórz hasło</value>
     </key>
     <key name="questions_question_sex_description">
         <value>&amp;nbsp;</value>
     </key>
     <key name="questions_question_sex_label">
-        <value>Gender</value>
+        <value>Płeć</value>
     </key>
     <key name="questions_question_sex_value_1">
-        <value>Male</value>
+        <value>Mężczyzna</value>
     </key>
     <key name="questions_question_sex_value_2">
-        <value>Female</value>
+        <value>Kobieta</value>
     </key>
     <key name="questions_question_sex_value_4"/>
     <key name="questions_question_username_description">
-        <value>Should contain only letters and digits</value>
+        <value>Hasło powinno zawierać tylko litery i cyfry</value>
     </key>
     <key name="questions_question_username_label">
-        <value>Username</value>
+        <value>Nazwa użytkownika</value>
     </key>
     <key name="questions_question_user_photo_description"/>
     <key name="questions_question_user_photo_label">
-        <value>User photo</value>
+        <value>Zdjęcie użytkownika</value>
     </key>
     <key name="questions_question_user_terms_of_use_label">
-        <value>I agree with &lt;a target='blank' href='{$site_url}terms-of-use' &gt;terms of use&lt;/a&gt;</value>
+        <value>Zgadzam się z &lt;a target='blank' href='{$site_url}terms-of-use' &gt;warunkami korzystania z serwisu&lt;/a&gt;</value>
     </key>
     <key name="questions_question__description"/>
     <key name="questions_question__label"/>
@@ -3398,68 +3398,68 @@
     <key name="questions_question__value_8"/>
     <key name="questions_section_1c39c2d13da6947108873e2896c31c51_label"/>
     <key name="questions_section_47f3a94e6cfe733857b31116ce21c337_label">
-        <value>Interests</value>
+        <value>Zaintersowania</value>
     </key>
     <key name="questions_section_4e9e55a664473acae206ec14c58aa45e_label"/>
     <key name="questions_section_683bffc1ac46b8bd0c840a3526cce25b_label"/>
     <key name="questions_section_a9073700994b20e339e21d061c44e5b0_label">
-        <value>Education</value>
+        <value>Edukacja</value>
     </key>
     <key name="questions_section_about_my_match_label">
-        <value>About my match</value>
+        <value>O dopasowaniach</value>
     </key>
     <key name="questions_section_captcha_label">
         <value>Captcha</value>
     </key>
     <key name="questions_section_e46697c921740b10b1ac7223a14155b2_label"/>
     <key name="questions_section_f90cde5913235d172603cc4e7b9726e3_label">
-        <value>Basic</value>
+        <value>Dane podstawowe</value>
     </key>
     <key name="questions_section_location_label">
-        <value>Location</value>
+        <value>Lokalizacja</value>
     </key>
     <key name="questions_section_terms_of_use_label">
-        <value>Terms of use</value>
+        <value>Warunki korzystania</value>
     </key>
     <key name="questions_section_user_photo_label">
-        <value>User photo</value>
+        <value>Zdjęcie użytkownika</value>
     </key>
     <key name="questions_section__label"/>
     <key name="quick_links_cap_label">
-        <value>Quick Links</value>
+        <value>Przydatne lunki</value>
     </key>
     <key name="rates_box_cap_label">
-        <value>Rate</value>
+        <value>Oceny</value>
     </key>
     <key name="rate_cmp_auth_error_message">
-        <value>Guests are not allowed to rate</value>
+        <value>Goście nie mogą oceniać</value>
     </key>
     <key name="rate_cmp_owner_cant_rate_error_message">
-        <value>You can't rate your own content</value>
+        <value>Nie możesz ocenić swoich własnych publikacji</value>
     </key>
     <key name="rate_cmp_success_message">
-        <value>Rate successful</value>
+        <value>Wysłano ocenę</value>
     </key>
     <key name="required_profile_questions">
-        <value>Required profile questions</value>
+        <value>Wymagane pytania profilowe</value>
     </key>
     <key name="reset_password_cap_label">
-        <value>Create new password</value>
+        <value>Stwórz nowe hasło</value>
     </key>
     <key name="reset_password_code_expired_cap_label">
-        <value>Expired reset code</value>
+        <value>Wygasł kod resetowania hasła</value>
     </key>
     <key name="reset_password_code_expired_text">
-        <value>Unfortunately you reset code is invalid or expired. Please follow the &lt;a href="{$url}"&gt;link&lt;/a&gt; and try to reset it again.</value>
+        <value>Niestety Twój kod resetowania hasła jest nieprawidłowy lub wygasł. Skorzystaj z &lt;a href="{$url}"&gt;linku&lt;/a&gt;i spróbuj zresetować poownie aby odzyskać dostęp.</value>
     </key>
     <key name="reset_password_field_label">
-        <value>New password</value>
+        <value>Nowe hasło</value>
     </key>
     <key name="reset_password_form_text">
-        <value>Hello {$username}, enter your new password below:</value>
+        <value>Witamy {$username}, wprowadź swoje hasło poniżej:</value>
     </key>
     <key name="reset_password_heading">
-        <value>Reset your password</value>
+        <value>Zresetuj swoje hasło</value>
     </key>
     <key name="reset_password_length_error_message">
         <value>Password length should be between {$min} and {$max} symbols</value>
@@ -3519,10 +3519,10 @@
         <value>Save and approve</value>
     </key>
     <key name="search_results">
-        <value>Search results</value>
+        <value>Szukaj results</value>
     </key>
     <key name="search_users">
-        <value>Search users</value>
+        <value>Szukaj users</value>
     </key>
     <key name="send_message_to_email">
         <value>Send message to email</value>
@@ -3558,7 +3558,7 @@
         <value>Join</value>
     </key>
     <key name="seo_meta_search_result_label">
-        <value>Member Search Results Page</value>
+        <value>Member Szukaj Results Page</value>
     </key>
     <key name="seo_meta_section_base_pages">
         <value>Base Pages</value>
@@ -3591,16 +3591,16 @@
         <value>View all questions</value>
     </key>
     <key name="sign_in_remember_me_label">
-        <value>Remember me</value>
+        <value>Zapamiętaj hasło</value>
     </key>
     <key name="sign_in_submit_label">
-        <value>Sign In</value>
+        <value>Zaloguj się</value>
     </key>
     <key name="sing_in_to_flag">
         <value>You need to sign in to flag content</value>
     </key>
     <key name="site_email_verify_subject">
-        <value>Verify email</value>
+        <value>Zweryfikuj email</value>
     </key>
     <key name="site_email_verify_template_html">
         <value>&lt;p&gt;&#13;Hello,&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;Someone (probably you) set this email address as the official email address of &lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt; website.&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;To complete this process you need to verify this email address by opening the following URL: &lt;a href="{$url}"&gt;{$url}&lt;/a&gt;&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;Alternatively you can open &lt;a href="{$verification_page_url}"&gt;this URL&lt;/a&gt; and paste there the following code: &lt;b&gt;{$code}&lt;/b&gt;&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;If you didn't try to do that safely ignore this message and your email will not be used.&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;Thank you,&lt;br /&gt;&#13;Administration&lt;br /&gt;&#13;{$site_name}&lt;br /&gt;&#13;{$site_url}&#13;&lt;/p&gt;</value>
@@ -3769,76 +3769,76 @@
         <value>Search for particular users in our community.</value>
     </key>
     <key name="users_main_menu_item">
-        <value>Members</value>
+        <value>FRENDA SPOŁECZNOŚĆ</value>
     </key>
     <key name="user_action_mark_as_featured">
-        <value>Mark as featured</value>
+        <value>Dodaj do obserwowanych</value>
     </key>
     <key name="user_action_unmark_as_featured">
-        <value>Remove from featured</value>
+        <value>Usuń z obserowanych</value>
     </key>
     <key name="user_approved">
-        <value>User approved</value>
+        <value>Zweryfikowano</value>
     </key>
     <key name="user_approved_mail_html">
-        <value>&lt;p&gt;&#13;Dear {$user_name},&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;We are glad to let you know that your account on &lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt; has been approved. Now you can sign in here: &lt;a href="{$site_url}"&gt;{$site_url}&lt;/a&gt;&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;We hope you enjoy our site to the fullest.&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;Thank you,&lt;br /&gt;&#13;Administration&lt;br /&gt;&#13;&lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt;&#13;&lt;/p&gt;</value>
+        <value>&lt;p&gt;&#13;Droga {$user_name},&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;Cieszymy się, że Twoje konto w społeczności &lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt; zostało pomyślnie zatwierdzone. Możesz się zalogować: &lt;a href="{$site_url}"&gt;{$site_url}&lt;/a&gt;&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;Mamy nadzieję, że spędzisz miło swój czas.&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;Dziękujemy,&lt;br /&gt;&#13;Administration&lt;br /&gt;&#13;&lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt;&#13;&lt;/p&gt;</value>
     </key>
     <key name="user_approved_mail_subject">
-        <value>Your account has been approved</value>
+        <value>Twoje konto zostało potwierdzone</value>
     </key>
     <key name="user_approved_mail_txt">
-        <value>Dear {$user_name},&#13;&#13;We are glad to let you know thatyour account on {$site_name} has been approved. Now you can sign in here: {$site_url}&#13;&#13;We hope you enjoy our site to the fullest.&#13;&#13;Thank you,&#13;Administration&#13;{$site_name}&#13;{$site_url}</value>
+        <value>Droga {$user_name},&#13;&#13;Cieszymy się, że Twoje konto w społeczności {$site_name} has been approved. Możesz się zalogować: {$site_url}&#13;&#13;Baw się dobrze!.&#13;&#13;Dziękujemy,&#13;Administration&#13;{$site_name}&#13;{$site_url}</value>
     </key>
     <key name="user_block_btn_lbl">
-        <value>Block</value>
+        <value>Zablokuj</value>
     </key>
     <key name="user_block_confirm_message">
-        <value>Are you sure you want to block this user? &lt;br /&gt;&lt;br /&gt; This will cancel and prevent all interaction with you.</value>
+        <value>Na pewno chcesz zablokować? &lt;br /&gt;&lt;br /&gt; Działanie to, uniemożliwi podejmowanie interakcji.</value>
     </key>
     <key name="user_block_message">
-        <value>Sorry, this user chooses not to interact with you</value>
+        <value>Przepraszamy. Wygląda na to, że ktoś nie chce się kontaktować </value>
     </key>
     <key name="user_deleted_message">
-        <value>Account has been removed</value>
+        <value>Konto zostało usunięte</value>
     </key>
     <key name="user_deleted_page_message">
-        <value>Account has been removed</value>
+        <value>Konto zostało usunięte</value>
     </key>
     <key name="user_feedback_marked_as_featured">
-        <value>User marked as featured</value>
+        <value>Użytkownik został dodany do obserowanych</value>
     </key>
     <key name="user_feedback_profiles_unsuspended">
-        <value>Selected users have been re-activated</value>
+        <value>Wybrany</value>
     </key>
     <key name="user_feedback_profile_blocked">
-        <value>Profile blocked</value>
+        <value>Profil zablokowany</value>
     </key>
     <key name="user_feedback_profile_suspended">
         <value>Profile suspended</value>
     </key>
     <key name="user_feedback_profile_unblocked">
-        <value>Profile unblocked</value>
+        <value>Profil został odblkowany</value>
     </key>
     <key name="user_feedback_profile_unsuspended">
-        <value>Profile re-activated</value>
+        <value>Profil został reaktywowany</value>
     </key>
     <key name="user_feedback_unmarked_as_featured">
-        <value>User removed from featured</value>
+        <value>Użytkownik został usunięty z obserowanych</value>
     </key>
     <key name="user_list_activity">
-        <value>Activity</value>
+        <value>Aktywność</value>
     </key>
     <key name="user_list_chat_now">
-        <value>Chat Now</value>
+        <value>Rozmawiaj teraz</value>
     </key>
     <key name="user_list_menu_item_birthdays">
-        <value>Birthdays</value>
+        <value>Urodziny</value>
     </key>
     <key name="user_list_menu_item_featured">
-        <value>Featured</value>
+        <value>Obserowane</value>
     </key>
     <key name="user_list_menu_item_latest">
-        <value>Latest</value>
+        <value>Ostatnio aktywne</value>
     </key>
     <key name="user_list_menu_item_online">
         <value>Online</value>
@@ -3853,16 +3853,16 @@
         <value>Online</value>
     </key>
     <key name="user_list_widget_empty">
-        <value>Oops, no profiles</value>
+        <value>Oops, nie ma profilu</value>
     </key>
     <key name="user_list_widget_settings_count">
         <value>Count</value>
     </key>
     <key name="user_list_widget_settings_title">
-        <value>Users</value>
+        <value>Użytkowniczki</value>
     </key>
     <key name="user_no_users">
-        <value>No users</value>
+        <value>Brak użytkowniczek</value>
     </key>
     <key name="user_page_heading_status">
         <value>{$username} &lt;span class="ow_small"&gt;{$status}&lt;/span&gt;</value>
@@ -3874,58 +3874,58 @@
         <value>You are not authorized to search users</value>
     </key>
     <key name="user_search_back_to_search">
-        <value>Back to search form</value>
+        <value>Wróć do wyszukiwania</value>
     </key>
     <key name="user_search_back_to_search_from">
-        <value>Back to search from</value>
+        <value>Wróć do wyszukiwania</value>
     </key>
     <key name="user_search_display_name_search_label">
-        <value>Search by Name</value>
+        <value>Wyszukaj po nazwie</value>
     </key>
     <key name="user_search_main_search_label">
-        <value>Main Search</value>
+        <value>Główne wyszukiwanie</value>
     </key>
     <key name="user_search_menu_item_label">
-        <value>Search</value>
+        <value>Szukaj</value>
     </key>
     <key name="user_search_page_heading">
-        <value>User Search</value>
+        <value>Wyszukiwanie</value>
     </key>
     <key name="user_search_submit_button_label">
-        <value>Search</value>
+        <value>Szukaj</value>
     </key>
     <key name="user_suspend_btn_lbl">
-        <value>Suspend</value>
+        <value>Zablokuj</value>
     </key>
     <key name="user_unblock_btn_lbl">
-        <value>Unblock</value>
+        <value>Odblokuj</value>
     </key>
     <key name="user_unsuspend_btn_lbl">
-        <value>Re-activate</value>
+        <value>Reaktywowane</value>
     </key>
     <key name="view_all">
-        <value>View all</value>
+        <value>Zobacz wszystkie</value>
     </key>
     <key name="view_index">
-        <value>Profile Details</value>
+        <value>Szczegóły profilu</value>
     </key>
     <key name="view_more_label">
-        <value>View more</value>
+        <value>Zobacz więcej</value>
     </key>
     <key name="view_no_section_label">
-        <value>Basic</value>
+        <value>Podstawy</value>
     </key>
     <key name="view_profile_no_permission">
-        <value>You are not allowed to view profiles</value>
+        <value>Nie masz dostępu aby zobaczyć zawartość</value>
     </key>
     <key name="wackwall">
-        <value>Create community site</value>
+        <value>Stwórz</value>
     </key>
     <key name="wait_for_approval">
         <value>&lt;center&gt;Your account is pending approval&lt;/center&gt;</value>
     </key>
     <key name="welcome_letter_subject">
-        <value>{$site_name} registration</value>
+        <value>{$site_name} rejestracja</value>
     </key>
     <key name="welcome_letter_template_html">
         <value>Welcome to &lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt;! Thanks for joining us. Here are some quick links that you need to find your way around:&lt;br/&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}"&gt;Main page&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}my-profile"&gt;Change avatar&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}photo/viewlist/latest"&gt;Upload Photos&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}profile/edit"&gt;Change profile details&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}users"&gt;Look who's in&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&#13;Feel free to participate in our community!&lt;br/&gt;&lt;br/&gt;&#13;&lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt; administration&lt;br/&gt;</value>
@@ -3940,19 +3940,19 @@
         <value>photo_upload - Photo upload link&#13;change_avatar - Change avatar link</value>
     </key>
     <key name="welcome_widget_title">
-        <value>Welcome!</value>
+        <value>Witamy!</value>
     </key>
     <key name="white_spaces_dissalowed">
-        <value>Spaces are not allowed</value>
+        <value>Spacja nie jest dozwolona</value>
     </key>
     <key name="widgets_action_delete">
-        <value>Delete</value>
+        <value>Usuń</value>
     </key>
     <key name="widgets_action_edit">
-        <value>Edit</value>
+        <value>Edytuj</value>
     </key>
     <key name="widgets_admin_customization_box_title">
-        <value>User Customization</value>
+        <value>Dostosowywanie</value>
     </key>
     <key name="widgets_admin_dashboard_heading">
         <value>User Dashboard</value>
@@ -3961,13 +3961,13 @@
         <value>&lt;span class="ow_mild_red"&gt;Red items&lt;/span&gt; are "frozen". Frozen items' positions are fixed and can not be moved or edited by user. They always occupy the upper positions in containers.</value>
     </key>
     <key name="widgets_admin_profile_heading">
-        <value>User Profile Settings</value>
+        <value>Ustawienia profilu</value>
     </key>
     <key name="widgets_admin_section_information">
         <value>&lt;span class="ow_mild_green"&gt;Drag'n'drop&lt;/span&gt; items to the page sample below to add features or custom components.</value>
     </key>
     <key name="widgets_allow_customize_label">
-        <value>Allow users to customize this page</value>
+        <value>Pozwól użytkownikom dostosować tą stronę</value>
     </key>
     <key name="widgets_allow_customize_legend">
         <value>You can let users customize this page components. However they will not be able to change page layout.</value>
@@ -3991,16 +3991,16 @@
         <value>Freeze</value>
     </key>
     <key name="widgets_default_settings_icon">
-        <value>Icon</value>
+        <value>Ikona</value>
     </key>
     <key name="widgets_default_settings_restrict_view">
-        <value>Restrict view</value>
+        <value>Ograniczony widok</value>
     </key>
     <key name="widgets_default_settings_show_title">
-        <value>Show title</value>
+        <value>Pokaż tytuł</value>
     </key>
     <key name="widgets_default_settings_title">
-        <value>Title</value>
+        <value>Tutuł</value>
     </key>
     <key name="widgets_default_settings_wib">
         <value>Wrap in box</value>
@@ -4015,52 +4015,52 @@
         <value>Enable JavaScript</value>
     </key>
     <key name="widgets_fb_default_settings_label">
-        <value>General widget settings</value>
+        <value>Ogólne ustawienia widgetów</value>
     </key>
     <key name="widgets_fb_setting_box_title">
-        <value>Settings</value>
+        <value>Ustawienia</value>
     </key>
     <key name="widgets_finish_customize_btn">
-        <value>Finish customizing</value>
+        <value>Zakończ dostosowywanie</value>
     </key>
     <key name="widgets_no_content">
-        <value>No content</value>
+        <value>Brak zawartości do wyświetlenia</value>
     </key>
     <key name="widgets_panel_dashboard_label">
         <value>Dashboard</value>
     </key>
     <key name="widgets_reset_customization">
-        <value>Reset</value>
+        <value>Resetuj</value>
     </key>
     <key name="widgets_reset_position_confirm">
-        <value>Are you sure you want to reset your profile customization?</value>
+        <value>Na pewno chcesz zresetować swoje ustawienia?</value>
     </key>
     <key name="widgets_section_box_title">
-        <value>Available widgets</value>
+        <value>Dostępne widgety</value>
     </key>
     <key name="with_selected">
-        <value>Selected:</value>
+        <value>Wybrano:</value>
     </key>
     <key name="write_message">
-        <value>Write message</value>
+        <value>Napisz wiadomość</value>
     </key>
     <key name="ws_add_label">
-        <value>Add</value>
+        <value>Dodaj</value>
     </key>
     <key name="ws_button_label_bold">
-        <value>Bold</value>
+        <value>Pogrubienie</value>
     </key>
     <key name="ws_button_label_html">
-        <value>Insert HTML</value>
+        <value>Wstaw HTML</value>
     </key>
     <key name="ws_button_label_image">
-        <value>Insert Image</value>
+        <value>Wstaw obrazek</value>
     </key>
     <key name="ws_button_label_italic">
-        <value>Italic</value>
+        <value>Kursywa</value>
     </key>
     <key name="ws_button_label_link">
-        <value>Insert Link</value>
+        <value>Wstaw link</value>
     </key>
     <key name="ws_button_label_more">
         <value>More</value>
@@ -4078,34 +4078,34 @@
         <value>Insert Unordered List</value>
     </key>
     <key name="ws_button_label_video">
-        <value>Insert Video</value>
+        <value>Wstaw wideo</value>
     </key>
     <key name="ws_error_video">
-        <value>This is not a video or video not found</value>
+        <value>Nie rozpoznano pliku filmowego</value>
     </key>
     <key name="ws_html_head_label">
-        <value>Insert HTML</value>
+        <value>Wstaw HTML</value>
     </key>
     <key name="ws_html_textarea_label">
-        <value>Your html code:</value>
+        <value>Twój kod html:</value>
     </key>
     <key name="ws_insert_label">
-        <value>Insert</value>
+        <value>Wstaw</value>
     </key>
     <key name="ws_link_empty_fields">
         <value>Please fill `label` and `url` fields to insert the link</value>
     </key>
     <key name="ws_link_new_window_label">
-        <value>Open in new window</value>
+        <value>Otwórz w nowym oknie</value>
     </key>
     <key name="ws_link_text_label">
-        <value>Text to display:</value>
+        <value>Tekst:</value>
     </key>
     <key name="ws_link_url_label">
         <value>To what URL should this link go:</value>
     </key>
     <key name="ws_video_empty_field">
-        <value>Enter video code please</value>
+        <value>Wprowadź link do wideo</value>
     </key>
     <key name="ws_video_head_label">
         <value>Insert video</value>
@@ -4114,15 +4114,15 @@
         <value>Embed your video code here:</value>
     </key>
     <key name="ws_video_text_label">
-        <value>Add video link...</value>
+        <value>Dodaj link do wideo...</value>
     </key>
     <key name="year">
         <value>Year</value>
     </key>
     <key name="yes">
-        <value>Yes</value>
+        <value>Tak</value>
     </key>
     <key name="your_rate_label">
-        <value>Your rate:</value>
+        <value>Twoja ocena:</value>
     </key>
 </prefix>
