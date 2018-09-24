@@ -277,7 +277,7 @@
         <value>Zdjęcie</value>
     </key>
     <key name="email_notifications_setting_comment">
-        <value>Ktoś skomentował twoje zdjęcie</value>
+        <value>Skomentowano Twoje zdjęcie</value>
     </key>
     <key name="enable_advanced_upload">
         <value>Włącz zaawansowaną opcje załadowywania zdjęć</value>
@@ -304,7 +304,7 @@
         <value>The uploaded file was only partially uploaded</value>
     </key>
     <key name="feed_activity_owner_photo_like">
-        <value>liked their photo</value>
+        <value>lubi zdjęcie</value>
     </key>
     <key name="feed_activity_owner_photo_string">
         <value>commented on their photo</value>
@@ -652,7 +652,7 @@
         <value>Previous photo</value>
     </key>
     <key name="privacy_action_view_album">
-        <value>View my photo albums</value>
+        <value>Kto może oglądać moje zdjęcia</value>
     </key>
     <key name="quotas">
         <value>Limits</value>

@@ -324,10 +324,10 @@
         <value>Wiadomości</value>
     </key>
     <key name="messages_email_notifications_new_chat_message">
-        <value>Nowa wiadomość</value>
+        <value>Nowa wiadomość czatu</value>
     </key>
     <key name="messages_email_notifications_new_message">
-        <value>Nowa wiadomość</value>
+        <value>Nowa wiadomość w skrzynce</value>
     </key>
     <key name="messages_email_notifications_section_label">
         <value>Wiadomośći</value>
@@ -336,7 +336,7 @@
         <value>Wiadomość</value>
     </key>
     <key name="message_too_long_error">
-        <value>Ops, to zbyt dużo symboli! Spróbuj napisać krótszą wiadomość, użyj mniej niż {$maxLength} symboli.</value>
+        <value>Ops, to zbyt wiele symboli! Spróbuj napisać krótszą wiadomość, użyj mniej niż {$maxLength} symboli.</value>
     </key>
     <key name="message_was_not_authorized">
         <value>Wiadomość nie została zautoryzowana</value>
@@ -504,46 +504,46 @@ Pozdrawiamy, administracja {$site_name}</value>
         <value>Really bad idea for big sites</value>
     </key>
     <key name="settings_friends_only_label">
-        <value>Friends Only Mode</value>
+        <value>Tylko znajomi</value>
     </key>
     <key name="settings_label_active_mode_list">
-        <value>Choose messages mode</value>
+        <value>Wybierz tryb wiadomości</value>
     </key>
     <key name="settings_label_send_message_interval">
         <value>Allow to send messages once in</value>
     </key>
     <key name="settings_label_send_message_interval_seconds">
-        <value>seconds</value>
+        <value>sek</value>
     </key>
     <key name="settings_label_show_all_members">
-        <value>Show all members in chat userlist</value>
+        <value>Pokaż wszytkich</value>
     </key>
     <key name="settings_saved">
-        <value>Settings saved</value>
+        <value>Ustawienia zapisane</value>
     </key>
     <key name="settings_updated">
-        <value>Settings updated</value>
+        <value>Ustawienia zaktualizowane</value>
     </key>
     <key name="show_all_users">
         <value>Pokaż wszystkich użytkowników</value>
     </key>
     <key name="show_online_only">
-        <value>POkaż tylko użytkowników online</value>
+        <value>Pokaż tylko użytkowników online</value>
     </key>
     <key name="silent_mode_off">
-        <value>Tryb cichy: wyłączony</value>
+        <value>Włącz dźwięk</value>
     </key>
     <key name="silent_mode_on">
-        <value>Tryb cichy: włączony</value>
+        <value>Wyłącz dźwięk</value>
     </key>
     <key name="status_invisible_label">
         <value>Niewidoczne dla wszystkich</value>
     </key>
     <key name="subject">
-        <value>Subject</value>
+        <value>Temat</value>
     </key>
     <key name="subject_is_required">
-        <value>Subject is empty</value>
+        <value>Wpisz temat</value>
     </key>
     <key name="switch_to_chat_mode">
         <value>Otwórz w oknie czatu</value>
@@ -567,19 +567,19 @@ Pozdrawiamy, administracja {$site_name}</value>
         <value>Failed to write file to disk.</value>
     </key>
     <key name="upload_file_count_files_error">
-        <value>Too many files uploaded!</value>
+        <value>Dodano zbyt dużo plików!</value>
     </key>
     <key name="upload_file_delete_fail">
-        <value>Delete file fail!</value>
+        <value>Wystąpił błąd!</value>
     </key>
     <key name="upload_file_delete_success">
-        <value>Delete file success!</value>
+        <value>Usunięto</value>
     </key>
     <key name="upload_file_extension_is_not_allowed">
         <value>The file extention is not allowed.</value>
     </key>
     <key name="upload_file_fail">
-        <value>Błąd łądowania pliku!</value>
+        <value>Błąd ładowania pliku!</value>
     </key>
     <key name="upload_file_file_partially_uploaded_error">
         <value>Błąd, załądowano tylko część pliku.</value>
@@ -600,19 +600,19 @@ Pozdrawiamy, administracja {$site_name}</value>
         <value>Nie załadowano pliku.</value>
     </key>
     <key name="upload_file_no_tmp_dir_error">
-        <value>Missing a temporary folder.</value>
+        <value>Błąd.</value>
     </key>
     <key name="upload_max_file_size">
-        <value>Max upload attachment size</value>
+        <value>Maksymalny rozmiar załącznika</value>
     </key>
     <key name="usercredits_action_read_chat_message">
-        <value>Pzeczytaj waidaomości czatu</value>
+        <value>Pzeczytaj wiadomośći czatu</value>
     </key>
     <key name="usercredits_action_read_message">
-        <value>Cztaj wiadomości prywatne</value>
+        <value>Przeczytaj wiadomości prywatne</value>
     </key>
     <key name="usercredits_action_reply_to_chat_message">
-        <value>KOntynuuj rozmowę w oknie czatu</value>
+        <value>Kontynuuj rozmowę w oknie czatu</value>
     </key>
     <key name="usercredits_action_reply_to_message">
         <value>Kontynuuj rozmowę</value>
@@ -627,13 +627,13 @@ Pozdrawiamy, administracja {$site_name}</value>
         <value>Lista użytkowników</value>
     </key>
     <key name="user_is_deleted">
-        <value>Osoba, z którą próbujesz się skontaktować usunęła konto.</value>
+        <value>Osoba z którą próbujesz się skontaktować usunęła konto.</value>
     </key>
     <key name="user_is_not_approved">
-        <value>Osoba, z którą próbujesz się skontaktować nie została zweryfikowana.</value>
+        <value>Osoba z którą próbujesz się skontaktować nie została zweryfikowana.</value>
     </key>
     <key name="user_is_not_authorized_chat">
-        <value>'{$username}' nie został zweryfikowany aby móc korzystać z czatu</value>
+        <value>'{$username}' nie została zweryfikowana aby móc korzystać z czatu</value>
     </key>
     <key name="user_is_not_authorized_read_messages">
         <value>Osoba nie została zweryfikowana aby czytać wiadomości</value>

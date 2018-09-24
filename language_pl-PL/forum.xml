@@ -7,7 +7,7 @@
 		<value>&lt;a href="{$userUrl}"&gt;{$user}&lt;/a&gt; started new discussion: &lt;a href="{$topicUrl}"&gt;{$topicTitle}&lt;/a&gt;</value>
 	</key>
 	<key name="additional">
-		<value>Additional</value>
+		<value>Dodatkowe</value>
 	</key>
 	<key name="add_files">
 		<value>Dodaj pliki</value>
@@ -43,19 +43,19 @@
 		<value>Odpowiedz</value>
 	</key>
 	<key name="admin_config">
-		<value>Forum - Plugin Settings</value>
+		<value>Forum - Ustawienia wtyczki</value>
 	</key>
 	<key name="advanced_search">
 		<value>Wyszukwanie zaawansowane</value>
 	</key>
 	<key name="advanced_search_result">
-		<value>Search result</value>
+		<value>Wyniki wyszukiwania</value>
 	</key>
 	<key name="approve_topic">
-		<value>Zatwierdź</value>
+		<value>Potwierdź</value>
 	</key>
 	<key name="attached_files">
-		<value>załączone pliki</value>
+		<value>Załączone pliki</value>
 	</key>
 	<key name="attachments">
 		<value>Załączniki</value>
@@ -94,13 +94,13 @@
 		<value>Wróć do postu</value>
 	</key>
 	<key name="back_to_topic">
-		<value>« Wróć do tematu</value>
+		<value>Wróć do tematu</value>
 	</key>
 	<key name="basic">
-		<value>Basic</value>
+		<value>Ogólny</value>
 	</key>
 	<key name="by">
-		<value>by</value>
+		<value>przez</value>
 	</key>
 	<key name="chars_limit_exceeded">
 		<value>Ops, niestety Twój tekst jest zbyt długi! Spróbuj streścić wiadomość, użyj mniej niż {$limit} symboli.</value>
@@ -112,7 +112,7 @@
 		<value>Liczba tematów</value>
 	</key>
 	<key name="cmp_widget_forum_topics_post_lenght">
-		<value>Preview length for forum topic in characters</value>
+		<value>Podgląd</value>
 	</key>
 	<key name="confirm_delete_all_attachments">
 		<value>Na pewno chcesz usunąć te pliki?</value>
@@ -130,10 +130,10 @@
 		<value>Dodaj forum</value>
 	</key>
 	<key name="content_add_string">
-		<value>stwórz nowy temat</value>
+		<value>Stwórz nowy temat</value>
 	</key>
 	<key name="content_edited_string">
-		<value>edytuj forum</value>
+		<value>Edytuj forum</value>
 	</key>
 	<key name="content_forums_label">
 		<value>Forum</value>
@@ -163,19 +163,19 @@
 		<value>Ostrzeżenie</value>
 	</key>
 	<key name="delete_group">
-		<value>usuń</value>
+		<value>Usuń</value>
 	</key>
 	<key name="delete_group_confirm">
-		<value>Na pewno chcesz usunąć tą grupę?</value>
+		<value>Na pewno chcesz usunąć grupę?</value>
 	</key>
 	<key name="delete_post_confirm">
 		<value>Na pewno chcesz usunąć ten post?</value>
 	</key>
 	<key name="delete_quote_confirm">
-		<value>Are you sure you want to delete this quote?</value>
+		<value>NA pewno chcesz usunąć ten wpis?</value>
 	</key>
 	<key name="delete_section">
-		<value>usuń</value>
+		<value>Usuń</value>
 	</key>
 	<key name="delete_section_confirm">
 		<value>Na pewno chcesz usunąć sekcje forum?</value>
@@ -187,7 +187,7 @@
 		<value>Na pewno chcesz usunąc ten temat?</value>
 	</key>
 	<key name="edit_group">
-		<value>edytuj</value>
+		<value>Edytuj</value>
 	</key>
 	<key name="edit_group_btn">
 		<value>Zapisz</value>
@@ -205,7 +205,7 @@
 		<value>Edytuj post</value>
 	</key>
 	<key name="edit_section">
-		<value>edytuj</value>
+		<value>Edytuj</value>
 	</key>
 	<key name="edit_section_btn">
 		<value>Zapisz</value>
@@ -226,7 +226,7 @@
 		<value>Forum</value>
 	</key>
 	<key name="email_notifications_setting_post">
-		<value>Ktoś skomentował post na forum</value>
+		<value>Skomentowano Twój post na forum</value>
 	</key>
 	<key name="email_notification_post">
 		<value>&lt;a href="{$userUrl}"&gt;{$userName}&lt;/a&gt; odpowiedziała na &lt;a href="{$postUrl}"&gt;{$title}&lt;/a&gt;.</value>
@@ -362,7 +362,7 @@
 		<value>from</value>
 	</key>
 	<key name="forum_section">
-		<value>Section</value>
+		<value>Działy</value>
 	</key>
 	<key name="forum_settings">
 		<value>Ustawienia forum</value>
@@ -434,13 +434,13 @@
 		<value>{$section_name}</value>
 	</key>
 	<key name="meta_desc_section_search">
-		<value>Search results for {$section_name} sub-forum on {$site_name} forum.</value>
+		<value>Wyszukaj tematu {$section_name} sub-forum w {$site_name} forum.</value>
 	</key>
 	<key name="meta_desc_topic">
 		<value>{$topic_description}</value>
 	</key>
 	<key name="meta_desc_topic_search">
-		<value>Search results for {$topic_name} topic on {$site_name} forum.</value>
+		<value>Wyszukaj tametu {$topic_name} w {$site_name} forum.</value>
 	</key>
 	<key name="meta_keywords_adv_searche">
 		<value></value>
@@ -470,40 +470,40 @@
 		<value></value>
 	</key>
 	<key name="meta_title_add_topic">
-		<value>New forum topic - {$site_name}</value>
+		<value>Nowy temat na forum - {$site_name}</value>
 	</key>
 	<key name="meta_title_adv_search">
-		<value>Advanced search {$site_name} Forum</value>
+		<value>Wyszukiwanie zaawansowane {$site_name} Forum</value>
 	</key>
 	<key name="meta_title_adv_search_result">
-		<value>Search results for {$site_name} Forum</value>
+		<value>Wyszukaj {$site_name} Forum</value>
 	</key>
 	<key name="meta_title_group">
-		<value>{$group_name} at {$site_name} Forum</value>
+		<value>{$group_name} w {$site_name} Forum</value>
 	</key>
 	<key name="meta_title_group_search">
-		<value>{$group_name} search at {$site_name} Forum</value>
+		<value>{$group_name} szukaj w {$site_name} Forum</value>
 	</key>
 	<key name="meta_title_home">
 		<value>Forum | {$site_name}</value>
 	</key>
 	<key name="meta_title_section">
-		<value>{$section_name} at {$site_name} Forum</value>
+		<value>{$section_name} w {$site_name} Forum</value>
 	</key>
 	<key name="meta_title_section_search">
-		<value>{$section_name} search at {$site_name} Forum</value>
+		<value>{$section_name} szukaj {$site_name} Forum</value>
 	</key>
 	<key name="meta_title_topic">
-		<value>{$topic_name} at {$site_name} Forum</value>
+		<value>{$topic_name} w {$site_name} Forum</value>
 	</key>
 	<key name="meta_title_topic_search">
-		<value>{$topic_name} search at {$site_name} Forum</value>
+		<value>{$topic_name} szukaj w {$site_name} Forum</value>
 	</key>
 	<key name="moved_from">
-		<value>Topic was moved from &lt;a href="{$groupUrl}"&gt;{$groupName}&lt;/a&gt;.</value>
+		<value>Temat został przeniesiony z &lt;a href="{$groupUrl}"&gt;{$groupName}&lt;/a&gt;.</value>
 	</key>
 	<key name="moved_to">
-		<value>Topic was &lt;a href="{$topicUrl}"&gt;moved&lt;/a&gt;.</value>
+		<value>Temat został &lt;a href="{$topicUrl}"&gt;przeniesiony&lt;/a&gt;.</value>
 	</key>
 	<key name="move_topic">
 		<value>Przenieś</value>
@@ -527,7 +527,7 @@
 		<value>Forum</value>
 	</key>
 	<key name="new_topic_subject">
-		<value>Topic subject</value>
+		<value>Nazwa tematu</value>
 	</key>
 	<key name="not_all_attachments_added">
 		<value>Niektóre załączniki przekraczają dozwolony rozmiar pliku lub ich format nie jest obsługiwany</value>
@@ -542,7 +542,7 @@
 		<value>Brak tematów. Bądź pierwsza!</value>
 	</key>
 	<key name="no_topics">
-		<value>No topics</value>
+		<value>Brak tematów</value>
 	</key>
 	<key name="page_title_uninstall">
 		<value>Odinstaluj plugin</value>
@@ -554,16 +554,16 @@
 		<value>Wiadomość &lt;a href="{$permalink}"&gt;#{$number}&lt;/a&gt;</value>
 	</key>
 	<key name="please_enter_keyword_or_user_name">
-		<value>Please enter twoje słowo kluczowe lub nazwa użytkownika</value>
+		<value>Wprowadź słowo kluczowe lub nazwa użytkownika</value>
 	</key>
 	<key name="plugin_set_for_uninstall">
 		<value>Forum plugin uninstall initiated.</value>
 	</key>
 	<key name="post_attachment">
-		<value>Post attachment</value>
+		<value>Załącznik</value>
 	</key>
 	<key name="post_edited">
-		<value>Post edytowany przezy</value>
+		<value>Post edytowany przez</value>
 	</key>
 	<key name="post_location">
 		<value>Niektóre załączniki przekraczają dozwolony rozmiar pliku lub ich format nie jest obsługiwany:</value>
@@ -581,7 +581,7 @@
 		<value>Wyszukiwanie zaawansowane</value>
 	</key>
 	<key name="search_example_usage">
-		<value>Example of usage</value>
+		<value>Przykład</value>
 	</key>
 	<key name="search_example_usage_text">
 		<value>&lt;b&gt;apple banana&lt;/b&gt; - Find rows that contain at least one of the two words. &lt;br /&gt;
@@ -615,19 +615,19 @@
 		<value>Wybierz sekcje forum</value>
 	</key>
 	<key name="seo_meta_adv_search_label">
-		<value>Forum Advanced Search Page</value>
+		<value>Zaawansowane opcje wyszukiwania</value>
 	</key>
 	<key name="seo_meta_adv_search_result_label">
-		<value>Forum Advanced Search Results Page</value>
+		<value>Wyniki zaawansowanego wyszukiwania</value>
 	</key>
 	<key name="seo_meta_group_label">
 		<value>Separate Sub-forum Category Page</value>
 	</key>
 	<key name="seo_meta_group_search_label">
-		<value>Sub-forum Category Search Page</value>
+		<value>Podkategorie forum</value>
 	</key>
 	<key name="seo_meta_home_label">
-		<value>Forum Homepage</value>
+		<value>Strona główna forum</value>
 	</key>
 	<key name="seo_meta_section">
 		<value>Forum</value>
@@ -645,28 +645,28 @@
 		<value>Forum Thread Search</value>
 	</key>
 	<key name="settings_updated">
-		<value>Zaaktualizowano ustawienia</value>
+		<value>Zaktualizowano ustawienia</value>
 	</key>
 	<key name="sort_by_date">
 		<value>Data ostatniego postu</value>
 	</key>
 	<key name="sort_by_relevance">
-		<value>Relevance</value>
+		<value>Powiązane</value>
 	</key>
 	<key name="sticky">
-		<value>sticky</value>
+		<value>Obserwuj</value>
 	</key>
 	<key name="sticky_topic">
-		<value>Przyklej</value>
+		<value>Obserwuj</value>
 	</key>
 	<key name="sticky_topic_confirm">
-		<value>Na pewno chcesz przykleić ten temat?</value>
+		<value>Na pewno chcesz obserować ten temat?</value>
 	</key>
 	<key name="subscribe">
-		<value>Subscribe to new posts</value>
+		<value>Subskybuj</value>
 	</key>
 	<key name="subscribe_confirm">
-		<value>Czy na pewno chcesz włączyć?</value>
+		<value>Czy na pewno chcesz włączyć subskrybcję?</value>
 	</key>
 	<key name="subscription-added">
 		<value>Dodano subskrypcje</value>
@@ -675,7 +675,7 @@
 		<value>Subskrypcja anulowana</value>
 	</key>
 	<key name="this_topic">
-		<value>Ten temat</value>
+		<value>Obecny temat</value>
 	</key>
 	<key name="topic">
 		<value>Temat</value>
@@ -690,7 +690,7 @@
 		<value>Ten temat jest zablokowany</value>
 	</key>
 	<key name="topic_is_sticky">
-		<value>Ten temat jest przyklejony</value>
+		<value>Ten temat jest obserwowany</value>
 	</key>
 	<key name="topic_location">
 		<value>Lokalizacja wątku:</value>
@@ -711,28 +711,28 @@
 		<value>Na pewno odblokować ten temat?</value>
 	</key>
 	<key name="unsticky_topic">
-		<value>Usuń z przyklejonych wątków</value>
+		<value>Usuń z obserwowanych wątków</value>
 	</key>
 	<key name="unsticky_topic_confirm">
-		<value>Ten wątek już nie będzie przyklejony. Czy chcesz kontynuować?</value>
+		<value>Ten wątek już nie będzie przez Ciebie obserwowany. Czy chcesz kontynuować?</value>
 	</key>
 	<key name="unsubscribe">
-		<value>Odsubskrybuj</value>
+		<value>Przestań subskrybować</value>
 	</key>
 	<key name="unsubscribe_confirm">
-		<value>Na pewno chcesz odsubskrybować?</value>
+		<value>Na pewno chcesz przestać subskrybować?</value>
 	</key>
 	<key name="upload_ini_value">
 		<value>(Server limit: {$value})</value>
 	</key>
 	<key name="usercredits_action_add_post">
-		<value>Post in forum</value>
+		<value>Post na forum</value>
 	</key>
 	<key name="views">
-		<value>Widoki</value>
+		<value>Odsłony</value>
 	</key>
 	<key name="view_quote">
-		<value>View quote</value>
+		<value>Zobacz wątek</value>
 	</key>
 	<key name="visible_to">
 		<value>Visible for user roles</value>

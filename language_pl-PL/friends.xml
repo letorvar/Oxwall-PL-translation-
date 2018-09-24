@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <prefix name="friends" label="Friends" language_tag="pl-PL" language_label="Polski">
     <key name="accept_request">
-        <value>Accept</value>
+        <value>Zaakceptuj</value>
     </key>
     <key name="activity_content">
         <value>{$user_avatar} {$requester_avatar}</value>
     </key>
     <key name="activity_title">
-        <value>&lt;a href="{$user_url}"&gt;{$name}&lt;/a&gt; and &lt;a href="{$requester_url}"&gt;{$requester_name}&lt;/a&gt; are now friends</value>
+        <value>&lt;a href="{$user_url}"&gt;{$name}&lt;/a&gt; and &lt;a href="{$requester_url}"&gt;{$requester_name}&lt;/a&gt; są teraz znajomymi</value>
     </key>
     <key name="add_to_friends">
-        <value>Add to Friends</value>
+        <value>Dodaj do znajomych</value>
     </key>
     <key name="auth_action_label_add_friend">
-        <value>Send friend request</value>
+        <value>Wysłano prośbę dodania do znajomych</value>
     </key>
     <key name="auth_group_label">
-        <value>Friends</value>
+        <value>Znajome</value>
     </key>
     <key name="cancel_request">
-        <value>Cancel</value>
+        <value>Odmów</value>
     </key>
     <key name="comment_activity_string">
         <value>commented on {$user1} and {$user2} now being friends</value>
@@ -28,43 +28,43 @@
         <value>&lt;p&gt;&#13;Dear {$sender},&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;We are glad to let you know that &lt;a href="{$receiver_url}"&gt;{$receiver}&lt;/a&gt; confirmed you as a friend on &lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt;.&#13;&lt;/p&gt;&#13;&lt;p&gt;&#13;Thank you,&lt;br /&gt;&#13;Administration&lt;br /&gt;&#13;&lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt;&#13;&lt;/p&gt;</value>
     </key>
     <key name="confirmed_mail_subject">
-        <value>{$receiver} confirmed you as a friend</value>
+        <value>{$receiver} potwierdziła Twoje zaproszenie do grona znajomych</value>
     </key>
     <key name="confirmed_mail_txt">
-        <value>Dear {$sender},&#13;&#13;We are glad to let you know that {$receiver} confirmed you as a friend on {$site_name}.&#13;&#13;{$receiver}'s profile: {$receiver_url}&#13;{$site_name}: {$site_url}&#13;&#13;Thank you,&#13;Administration&#13;{$site_name}&#13;{$site_url}</value>
+        <value>Droga {$sender},&#13;&#13;Z radoscią informujemy Cię że {$receiver} zaakceptowała prośbę dodania do grona znajomych {$site_name}.&#13;&#13;{$receiver}'s profile: {$receiver_url}&#13;{$site_name}: {$site_url}&#13;&#13;Życzymy Wam ciekawych rozmów. Pozdrawiamy, zespół Frenda,&#13;Administration&#13;{$site_name}&#13;{$site_url}</value>
     </key>
     <key name="console_requests_title">
-        <value>Friend Requests</value>
+        <value>Zaproszenia do grona znajomych</value>
     </key>
     <key name="console_request_item">
-        <value>&lt;a target="_blank" href="{$userUrl}"&gt;{$displayName}&lt;/a&gt; wants to be friends with you.</value>
+        <value>&lt;a target="_blank" href="{$userUrl}"&gt;{$displayName}&lt;/a&gt; chciałaby nawiązać z Tobą kontakt.</value>
     </key>
     <key name="email_notifications_setting_accept">
-        <value>Someone accepts my friend request</value>
+        <value>Zaakceptowano Twoje zaproszenie do grona znajomych</value>
     </key>
     <key name="email_notifications_setting_request">
-        <value>Someone sends me friend request</value>
+        <value>Wysałano zaproszenie do grona znajomych</value>
     </key>
     <key name="feedback_cancelled">
-        <value>Cancelled</value>
+        <value>Odrzucono</value>
     </key>
     <key name="feedback_request_accepted">
-        <value>New friend added</value>
+        <value>Dodano nową znajomą</value>
     </key>
     <key name="feedback_request_already_sent_error_message">
-        <value>Request already sent</value>
+        <value>Zaproszenie wysłane</value>
     </key>
     <key name="feedback_request_ignored">
-        <value>Request ignored</value>
+        <value>Zaproszenie odrzucone</value>
     </key>
     <key name="feedback_request_was_sent">
-        <value>Friend request was sent</value>
+        <value>Wysłano zaproszenie do grona znajomych</value>
     </key>
     <key name="feed_content_label">
-        <value>Friends</value>
+        <value>Znajome</value>
     </key>
     <key name="friendship_management_area">
-        <value>Manage your friendships</value>
+        <value>Zarządzaj listą znajomych</value>
     </key>
     <key name="friends_tab">
         <value>Friends {$count}</value>
@@ -73,105 +73,105 @@
         <value>Friend requests</value>
     </key>
     <key name="friend_request_was_sent">
-        <value>Friend request was sent</value>
+        <value>Wysłano zaproszenie do grona znajomych</value>
     </key>
     <key name="got_requests_tab">
-        <value>Received requests {$count}</value>
+        <value>Otrzymano zaproszenia do grona znajomych {$count}</value>
     </key>
     <key name="ignore_request">
-        <value>Ignore</value>
+        <value>Odrzuć</value>
     </key>
     <key name="like_activity_string">
-        <value>liked that {$user1} and {$user2} are now friends</value>
+        <value> {$user1} i {$user2} są teraz znajomymi</value>
     </key>
     <key name="my_friends_page_heading">
-        <value>My friends</value>
+        <value>Moje znajome</value>
     </key>
     <key name="my_friends_page_title">
-        <value>My friends - {$site_name}</value>
+        <value>Moje koleżanki - {$site_name}</value>
     </key>
     <key name="newsfeed_action_string">
-        <value>and &lt;a href="{$user_url}"&gt;{$name}&lt;/a&gt; are now friends</value>
+        <value>i &lt;a href="{$user_url}"&gt;{$name}&lt;/a&gt; są teraz znajomymi</value>
     </key>
     <key name="new_friend_added">
-        <value>New friend added</value>
+        <value>Dodano nową znajomą</value>
     </key>
     <key name="notification_section_label">
-        <value>Friends</value>
+        <value>Znajomi</value>
     </key>
     <key name="notify_accept">
-        <value>{$receiver} accepted you as a friend.</value>
+        <value>{$receiver} zaakceptowała zaproszenie do grona znajomych.</value>
     </key>
     <key name="notify_request">
-        <value>{$sender} wants to be friends with you.</value>
+        <value>{$sender} chciałaby nawiązać z Tobą kontakt.</value>
     </key>
     <key name="notify_request_content">
-        <value>&lt;p&gt;&#13;&lt;a href="{$request_url}"&gt;Click here&lt;/a&gt; to accept this request.&#13;&lt;/p&gt;</value>
+        <value>&lt;p&gt;&#13;&lt;a href="{$request_url}"&gt;Kliknij tutaj&lt;/a&gt; żeby zaakceptować zaproszenie do grona znajomych.&#13;&lt;/p&gt;</value>
     </key>
     <key name="notify_request_content_string">
-        <value>&lt;p&gt;&#13;&lt;a href="{$url}"&gt;Click here&lt;/a&gt; to view all requests.&#13;&lt;/p&gt;</value>
+        <value>&lt;p&gt;&#13;&lt;a href="{$url}"&gt;Kliknij tutaj&lt;/a&gt; żeby zobaczyć wszytskie zaproszenia do grona znajomych.&#13;&lt;/p&gt;</value>
     </key>
     <key name="notify_request_string">
-        <value>&lt;a href="{$userUrl}"&gt;{$displayName}&lt;/a&gt; wants to be friends with you.</value>
+        <value>&lt;a href="{$userUrl}"&gt;{$displayName}&lt;/a&gt; chciałaby się z Tobą skontaktować. Zaakceptuj zaproszenie aby dodać do znajomych</value>
     </key>
     <key name="privacy_action_view_friends">
-        <value>View my friends</value>
+        <value>Kto może widzieć listę moich znajomych</value>
     </key>
     <key name="privacy_friends_only">
-        <value>My friends</value>
+        <value>Znajomi</value>
     </key>
     <key name="remove_from_friends">
-        <value>Remove from Friends</value>
+        <value>Usuń z listy znajomych</value>
     </key>
     <key name="remove_from_friendship_button">
-        <value>Remove from friends</value>
+        <value>Usuń z listy znajomychs</value>
     </key>
     <key name="request_friendship_button">
-        <value>Send friend request</value>
+        <value>Wyślij zaproszenie do grona znajomych</value>
     </key>
     <key name="request_mail_html">
         <value></value>
     </key>
     <key name="request_mail_subject">
-        <value>{$sender} wants to be friends with you</value>
+        <value>{$sender} chciałby nawiązać z Tobą kontakt. Zaakceptuj zaproszenie aby dodać do znajomych</value>
     </key>
     <key name="request_mail_txt">
         <value></value>
     </key>
     <key name="sent_requests_tab">
-        <value>Sent requests {$count}</value>
+        <value>Zaproszenia {$count}</value>
     </key>
     <key name="usercredits_action_add_friend">
-        <value>Send friend request</value>
+        <value>Wyślij zaproszenie</value>
     </key>
     <key name="user_friends_page_heading">
-        <value>{$user}'s friends</value>
+        <value>znajome {$user}</value>
     </key>
     <key name="user_friends_page_title">
-        <value>{$user}'s friends - {$site_name}</value>
+        <value>znajome {$user} - {$site_name}</value>
     </key>
     <key name="user_widget_empty">
-        <value>No friends yet</value>
+        <value>Nie masz jeszcze koleżanek</value>
     </key>
     <key name="user_widget_settings_count">
         <value>Count</value>
     </key>
     <key name="user_widget_title">
-        <value>Friends</value>
+        <value>Znajome</value>
     </key>
     <key name="view_profile">
-        <value>View</value>
+        <value>Zobacz</value>
     </key>
     <key name="widget_friends">
-        <value>Friends</value>
+        <value>Znajome</value>
     </key>
     <key name="widget_got_requests">
-        <value>Received requests</value>
+        <value>Otrzymane zaproszenia</value>
     </key>
     <key name="widget_sent_requests">
-        <value>Sent requests</value>
+        <value>Wyślij zaproszenia</value>
     </key>
     <key name="widget_title">
-        <value>Znajomi</value>
+        <value>Znajome</value>
     </key>
 </prefix>

@@ -1559,7 +1559,7 @@
                 <value>The form will not submit if the user doesn't enter valid answer for this question</value>
         </key>
         <key name="questions_required_label">
-                <value>Required</value>
+                <value>Uzupełnij</value>
         </key>
         <key name="questions_save_account_type">
                 <value>Save</value>

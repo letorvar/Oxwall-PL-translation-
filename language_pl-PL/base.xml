@@ -41,7 +41,7 @@
         <value>Wszyscy</value>
     </key>
     <key name="approve">
-        <value>Zatwierdź</value>
+        <value>Potwierdź</value>
     </key>
     <key name="approve_users">
         <value>Zaakceptuj używtkownika</value>
@@ -53,7 +53,7 @@
         <value>Zarchiwizuj</value>
     </key>
     <key name="are_you_sure">
-        <value>Jesteś pewien?</value>
+        <value>Na pewno?</value>
     </key>
     <key name="attch_add_video_button_label">
         <value>Dodaj wideo</value>
@@ -71,22 +71,22 @@
         <value>Dodaj wideo</value>
     </key>
     <key name="authorization_action_base_add_comment">
-        <value>Napisz komentarza na tablicy</value>
+        <value>Napisz komentarz na tablicy</value>
     </key>
     <key name="authorization_action_base_delete_comment_by_content_owner">
-        <value>Autor może usunąć komentarz</value>
+        <value>Tylko autor może usunąć komentarz</value>
     </key>
     <key name="authorization_action_base_search_users">
-        <value>Wyszukaj użytkowników</value>
+        <value>Wyszukiwanie użytkowników</value>
     </key>
     <key name="authorization_action_blogs_add">
-        <value>Dodaj post na blogu</value>
+        <value>Dodaj post na blog</value>
     </key>
     <key name="authorization_action_blogs_add_comment">
         <value>Dodaj komentarz</value>
     </key>
     <key name="authorization_action_blogs_delete_comment_by_content_owner">
-        <value>Autor może usunąć komentarz</value>
+        <value>Tylko autor może usunąć komentarz</value>
     </key>
     <key name="authorization_action_blogs_view">
         <value>Zobacz</value>
@@ -134,7 +134,7 @@
         <value>Skomentuj</value>
     </key>
     <key name="authorization_action_links_delete_comment_by_content_owner">
-        <value>Autor możę usunąć komentarz</value>
+        <value>Tylko autor może usunąć komentarz</value>
     </key>
     <key name="authorization_action_links_view">
         <value>Zobacz linki</value>
@@ -161,7 +161,7 @@
         <value>Skomentuj zdjęcie</value>
     </key>
     <key name="authorization_action_photo_delete_comment_by_content_owner">
-        <value>Autor możę usunąć komentarz</value>
+        <value>Tylko autor możę usunąć komentarz</value>
     </key>
     <key name="authorization_action_photo_upload">
         <value>Dodaj zdjęcie</value>
@@ -370,7 +370,7 @@
         <value>Dostępne formaty &lt;span class="ow_txt_value"&gt;JPG&lt;/span&gt;/&lt;span class="ow_txt_value"&gt;GIF&lt;/span&gt;/&lt;span class="ow_txt_value"&gt;PNG&lt;/span&gt;</value>
     </key>
     <key name="avatar_user_list_select_button_label">
-        <value>Zatwierdź</value>
+        <value>Potwierdź</value>
     </key>
     <key name="avatar_user_list_select_count_label">
         <value>#count# wybierz używtkownika</value>
@@ -643,13 +643,13 @@
         <value>Ukryj</value>
     </key>
     <key name="confirm_button">
-        <value>Zatwierdź</value>
+        <value>Potwierdź</value>
     </key>
     <key name="confirm_page_cancel_label">
         <value>Usuń</value>
     </key>
     <key name="confirm_page_ok_label">
-        <value>ok</value>
+        <value>Ok</value>
     </key>
     <key name="console_item_invitations_label">
         <value>Zaproszenia</value>
@@ -691,10 +691,10 @@
         <value>Profil</value>
     </key>
     <key name="contex_action_comment_delete_label">
-        <value>Delete comment</value>
+        <value>Usuń komentarz</value>
     </key>
     <key name="contex_action_user_delete_label">
-        <value>Usuń użytkownika</value>
+        <value>Konto nieaktywne</value>
     </key>
     <key name="continue_button">
         <value>Kontynuuj</value>
@@ -820,10 +820,10 @@
         <value>Usuń</value>
     </key>
     <key name="deleted_user">
-        <value>Usuń użytkownika</value>
+        <value>Konto nieaktywne</value>
     </key>
     <key name="delete_comment_by_content_owner">
-        <value>Delete comment by content owner</value>
+        <value>Komentarz został usunięty przez jego autora</value>
     </key>
     <key name="delete_profile">
         <value>Usuń Profil</value>
@@ -883,7 +883,7 @@
         <value>Edytuj szczegóły profilu</value>
     </key>
     <key name="edit_profile_warning">
-        <value>Note: Keep in mind that editing text fields will result in your profile being sent for approval. You will not be able to use the site during the approval process.</value>
+        <value>Uwaga: Pamiętaj, że zanim tekst ukaże się na Twoim profilu musi przejść weryfikację. Prosimy cierpliwie czekać na potwierdzenie.</value>
     </key>
     <key name="edit_remote_field_synchronize_title">
         <value>Pull data from other services</value>
@@ -892,7 +892,7 @@
         <value>Dane zostały zapisane</value>
     </key>
     <key name="email_notifications_setting_user_comment">
-        <value>Ktoś skomentował Twoje zdjęcie</value>
+        <value>Skomentowano Twoje zdjęcie</value>
     </key>
     <key name="email_verify_email_verify_fail">
         <value>Przepraszamy, Twój adress e-mail nie został potwierdzony.&lt;br/&gt; Most likely:&lt;br/&gt; &#13;&lt;br/&gt; &#13;1) Link zatwierdzający jest nieprawidłowy. Skopiuj poprawny adres URL and i zatwierdź w pasku przeglądarki.&#13;&lt;br/&gt;&lt;br/&gt;&#13;2) Adres URL wygasł po 5 dniach. Prosimy wygenerować nowy link potwierdzający email.</value>
@@ -928,7 +928,7 @@
         <value>Kod</value>
     </key>
     <key name="email_verify_verification_code_submit_button_label">
-        <value>Zatwierdź</value>
+        <value>Potwierdź</value>
     </key>
     <key name="email_verify_verify_mail_was_sent">
         <value>Potwierdzenie e-mail zostało wysłane</value>
@@ -967,7 +967,7 @@
         <value>skomentuj {$user} właśnie dołączyła do społeczności!</value>
     </key>
     <key name="feed_activity_join_profile_string_like">
-        <value>liked that {$user} joined our site</value>
+        <value>polubiła dołączenie {$user} do społęczności Frenda</value>
     </key>
     <key name="feed_user_edit_profile">
         <value>Edytuj szczegóły profilu</value>
@@ -1069,10 +1069,10 @@
         <value>Wybierz</value>
     </key>
     <key name="form_element_submit_default_balue">
-        <value>Zatwierdź</value>
+        <value>Potwierdź</value>
     </key>
     <key name="form_element_submit_default_value">
-        <value>Zatwierdź</value>
+        <value>Potwierdź</value>
     </key>
     <key name="form_element_to">
         <value>do</value>
@@ -1090,7 +1090,7 @@
         <value>Alphanumeric validator error!</value>
     </key>
     <key name="form_validator_captcha_error_message">
-        <value>Captcha validator error!</value>
+        <value>Błąd walidatora Captcha!</value>
     </key>
     <key name="form_validator_date_error_message">
         <value>Date validator error!</value>
@@ -1111,7 +1111,7 @@
         <value>RegExp validator error!</value>
     </key>
     <key name="form_validator_required_error_message">
-        <value>Required</value>
+        <value>Wymagane</value>
     </key>
     <key name="form_validator_string_error_message">
         <value>String validator error!</value>
@@ -1843,13 +1843,13 @@
         <value>Main</value>
     </key>
     <key name="input_settings_avatar_max_upload_size_label">
-        <value>Maximum upload avatar size</value>
+        <value>Maksymalny rozmiar miniaturki</value>
     </key>
     <key name="invalid_csrf_token_error_message">
-        <value>CSRF token is invalid or expired</value>
+        <value>CSRF jest nieprawidłowy lub wygasł</value>
     </key>
     <key name="invalid_file_type_acceptable_file_types_jpg_png_gif">
-        <value>Invalid file type. Acceptable file types: JPG/PNG/GIF</value>
+        <value>Nieprawidłowy typ pliku. Wybierz: JPG/PNG/GIF</value>
     </key>
     <key name="invalid_meta_error_message">
         <value>HTML is not allowed, please enter plain text</value>
@@ -2089,7 +2089,7 @@
         <value>Mark email verified</value>
     </key>
     <key name="massmailing_unsubscribe">
-        <value>Unsubscribe</value>
+        <value>Przetań subskrybować</value>
     </key>
     <key name="massmailing_unsubscribe_confirmation">
         <value>Please confirm you do not want to receive mass mailing from this site.</value>
@@ -2200,10 +2200,10 @@
         <value>Działania</value>
     </key>
     <key name="moderation_delete_confirmation">
-        <value>Jesteś pewien, że chcesz usunąć {$content}?</value>
+        <value>Czy na pewno chcesz usunąć {$content}?</value>
     </key>
     <key name="moderation_delete_multiple_confirmation">
-        <value>Jesteś pewien, że chcesz usunąć {$count} {$content}?</value>
+        <value>Czy na pewno chcesz usunąć {$count} {$content}?</value>
     </key>
     <key name="moderation_feedback_delete">
         <value>{$content} zostało usunięte</value>
@@ -2350,7 +2350,7 @@
         <value>Brak folderu lub nie można go zapisać.</value>
     </key>
     <key name="no_items">
-        <value>No items</value>
+        <value>Brak</value>
     </key>
     <key name="openwack">
         <value>Community software</value>
@@ -2375,7 +2375,7 @@
         <value>Dodaj</value>
     </key>
     <key name="pages_add_submit">
-        <value>Zatwierdź</value>
+        <value>Potwierdź</value>
     </key>
     <key name="pages_back">
         <value>Wróć</value>
@@ -2503,7 +2503,7 @@
         <value>Moderacja</value>
     </key>
     <key name="profile_toolbar_user_approve_label">
-        <value>Zatwierdź</value>
+        <value>Potwierdź</value>
     </key>
     <key name="profile_toolbar_user_delete_label">
         <value>Usuń</value>
@@ -2608,16 +2608,16 @@
         <value>Dodaj pytanie</value>
     </key>
     <key name="questions_menu_editAccountType">
-        <value>Edit Account Types</value>
+        <value>Typ konta</value>
     </key>
     <key name="questions_menu_index">
-        <value>Profile Questions</value>
+        <value>Pytania</value>
     </key>
     <key name="questions_menu_settings">
-        <value>Settings</value>
+        <value>Ustawienia</value>
     </key>
     <key name="questions_no_section_label">
-        <value>No section</value>
+        <value>Brak działu</value>
     </key>
     <key name="questions_question_0263e86fab7db4b4ad2fd146697bd54f_description"/>
     <key name="questions_question_0263e86fab7db4b4ad2fd146697bd54f_label"/>
@@ -3462,43 +3462,43 @@
         <value>Zresetuj swoje hasło</value>
     </key>
     <key name="reset_password_length_error_message">
-        <value>Password length should be between {$min} and {$max} symbols</value>
+        <value>Długość hasła powinna wynosić między {$min} a {$max} symboli</value>
     </key>
     <key name="reset_password_mail_template_content_html">
-        <value>Dear {$username},&#13;&lt;br /&gt;&#13;You requested to reset your password. Follow this link ({$resetUrl}) to change your password.&#13;&lt;br /&gt;&#13;If the link doesn't work, please enter the code manually here ({$requestUrl}). Code: {$code}&#13;&lt;br /&gt;&#13;If you didn't request password reset, please ignore this email.&#13;&lt;br /&gt;&lt;br /&gt;&#13;Thank you,&#13;{$site_name}&lt;br /&gt;</value>
+        <value>Droga {$username},&#13;&lt;br /&gt;&#13;Otrzymaliśmy od Ciebie prośbę resetowania hasła. Użyj tego linku ({$resetUrl}) aby zmienić hasło.&#13;&lt;br /&gt;&#13;Jeśli nie działa, prosimy wpisać kod ({$requestUrl}). Code: {$code}&#13;&lt;br /&gt;&#13;Jeśli to zgłoszenie nie było wysłane przez Ciebie, prosimy zingnorować ten e-mail.&#13;&lt;br /&gt;&lt;br /&gt;&#13;Dzięjujemy,&#13;{$site_name}&lt;br /&gt;</value>
     </key>
     <key name="reset_password_mail_template_content_txt">
-        <value>Dear {$username},&#13;&#13;You requested to reset your password. Follow this link ({$resetUrl}) to change your password.&#13;&#13;If the link doesn't work, please enter the code manually here ({$requestUrl}). Code: {$code}&#13;&#13;If you didn't request password reset, please ignore this email.&#13;&#13;Thank you,&#13;{$site_name}</value>
+        <value>Droga {$username},&#13;&#13;Otrzymaliśmy od Ciebie prośbę resetowania hasła. Użyj tego linku  ({$resetUrl}) aby zmienić hasło.&#13;&#13;Jeśli nie działa, prosimy wpisać kod ({$requestUrl}). Code: {$code}&#13;&#13;Jeśli to zgłoszenie nie było wysłane przez Ciebie, prosimy zingnorować ten email.&#13;&#13;Dziękujemy,&#13;{$site_name}</value>
     </key>
     <key name="reset_password_mail_template_subject">
-        <value>Reset code for new password</value>
+        <value>Zresetuj kod aby ustalić nowe hasło</value>
     </key>
     <key name="reset_password_not_equal_error_message">
-        <value>Values in 'password' and 'repeat password' fields should be equal</value>
+        <value>Wprowadzone wartośći 'hasło' and 'powtórz hasło' powinny być takie same</value>
     </key>
     <key name="reset_password_repeat_field_label">
-        <value>Repeat password</value>
+        <value>Powtórz hasło</value>
     </key>
     <key name="reset_password_request_cap_label">
-        <value>Enter your reset code</value>
+        <value>Wprowadź kod resetowania hasła</value>
     </key>
     <key name="reset_password_request_form_text">
-        <value>Type in the reset code sent to you. Then you can enter a new password.</value>
+        <value>Wprowadź kod resetowania hasła, następnie możesz ustalić swoje nowe hasło.</value>
     </key>
     <key name="reset_password_request_heading">
-        <value>Reset password request</value>
+        <value>Resetowanie hasła</value>
     </key>
     <key name="reset_password_request_invalid_code_error_message">
-        <value>Please enter valid reset code</value>
+        <value>Wprowadź poprawny kod resetowania hasła</value>
     </key>
     <key name="reset_password_request_submit_label">
-        <value>Submit</value>
+        <value>Potwierdź</value>
     </key>
     <key name="reset_password_submit_label">
-        <value>Submit</value>
+        <value>Potwierdź</value>
     </key>
     <key name="reset_password_success_message">
-        <value>Your password successfully changed</value>
+        <value>Twoje hasło zostało zmienione</value>
     </key>
     <key name="rss_widget_count_label">
         <value>Item count</value>
@@ -3510,19 +3510,19 @@
         <value>Titles only</value>
     </key>
     <key name="rss_widget_url_invalid_msg">
-        <value>Enter valid URL</value>
+        <value>Wprowadź poprawny URL</value>
     </key>
     <key name="rss_widget_url_label">
         <value>URL</value>
     </key>
     <key name="save_and_approve">
-        <value>Save and approve</value>
+        <value>Zapisz i potwierdź</value>
     </key>
     <key name="search_results">
-        <value>Szukaj results</value>
+        <value>Wyszukaj</value>
     </key>
     <key name="search_users">
-        <value>Szukaj users</value>
+        <value>Szukaj</value>
     </key>
     <key name="send_message_to_email">
         <value>Send message to email</value>
@@ -3597,7 +3597,7 @@
         <value>Zaloguj się</value>
     </key>
     <key name="sing_in_to_flag">
-        <value>You need to sign in to flag content</value>
+        <value>Musisz być zalogowany żeby zgłosić treść</value>
     </key>
     <key name="site_email_verify_subject">
         <value>Zweryfikuj email</value>
@@ -3615,13 +3615,13 @@
         <value>For the use in shared posts (Recommended image width is 1000px; Recommended image format is JPG)</value>
     </key>
     <key name="sort_control_sortby">
-        <value>Sort by</value>
+        <value>Posortuj</value>
     </key>
     <key name="subject_label">
-        <value>Subject</value>
+        <value>Temat</value>
     </key>
     <key name="submit_attachment_not_loaded">
-        <value>Photo is still uploading</value>
+        <value>Ładowanie zdjęcia w toku</value>
     </key>
     <key name="suspended_user_page_content">
         <value>&lt;center&gt;Sorry your account is suspended. Please contact site administrator.&lt;/center&gt;</value>
@@ -3639,13 +3639,13 @@
         <value>Dear {$realName},&#13;We are informing you that your account on {$site_name} has been suspended with the following reason given:&#13;{$suspendReason}&#13;Thank you,&#13;{$site_name} team</value>
     </key>
     <key name="suspend_reason">
-        <value>Reason</value>
+        <value>Powód</value>
     </key>
     <key name="suspend_user_btn">
-        <value>Suspend</value>
+        <value>Zawieś</value>
     </key>
     <key name="tags_cloud_cap_label">
-        <value>Tags</value>
+        <value>Tagi</value>
     </key>
     <key name="tags_input_field_invitation">
         <value>Enter tags here...</value>
@@ -3751,22 +3751,22 @@
         <value>User join</value>
     </key>
     <key name="users">
-        <value>Users</value>
+        <value>Użytkownicy</value>
     </key>
     <key name="users_browse_page_heading">
-        <value>Browse Users</value>
+        <value>Wyszukaj</value>
     </key>
     <key name="users_list_birthdays_meta_description">
-        <value>Users who celebrate their birthdays.</value>
+        <value>Sprawdź kto dziś świętuje urodziny</value>
     </key>
     <key name="users_list_latest_meta_description">
-        <value>The list of our participants: get to know your mates.</value>
+        <value>Lista użytkowniczek: poznaj nową osobę.</value>
     </key>
     <key name="users_list_online_meta_description">
-        <value>Look who's online now.</value>
+        <value>Zobacz kto jest teraz online.</value>
     </key>
     <key name="users_list_user_search_meta_description">
-        <value>Search for particular users in our community.</value>
+        <value>Znajdź osobę, którą chciałabyś poznać.</value>
     </key>
     <key name="users_main_menu_item">
         <value>FRENDA SPOŁECZNOŚĆ</value>
@@ -3847,7 +3847,7 @@
         <value>online now</value>
     </key>
     <key name="user_list_type_latest">
-        <value>Latest</value>
+        <value>Ostatnie</value>
     </key>
     <key name="user_list_type_online">
         <value>Online</value>
@@ -3856,7 +3856,7 @@
         <value>Oops, nie ma profilu</value>
     </key>
     <key name="user_list_widget_settings_count">
-        <value>Count</value>
+        <value>Liczba</value>
     </key>
     <key name="user_list_widget_settings_title">
         <value>Użytkowniczki</value>
@@ -3871,7 +3871,7 @@
         <value>&lt;center&gt;Suspended user&lt;/center&gt;</value>
     </key>
     <key name="user_search_authorization_warning">
-        <value>You are not authorized to search users</value>
+        <value>Nie masz wystarczających uprawnień żeby wyszukać użytkwników</value>
     </key>
     <key name="user_search_back_to_search">
         <value>Wróć do wyszukiwania</value>
@@ -3928,7 +3928,7 @@
         <value>{$site_name} rejestracja</value>
     </key>
     <key name="welcome_letter_template_html">
-        <value>Welcome to &lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt;! Thanks for joining us. Here are some quick links that you need to find your way around:&lt;br/&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}"&gt;Main page&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}my-profile"&gt;Change avatar&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}photo/viewlist/latest"&gt;Upload Photos&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}profile/edit"&gt;Change profile details&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}users"&gt;Look who's in&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&#13;Feel free to participate in our community!&lt;br/&gt;&lt;br/&gt;&#13;&lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt; administration&lt;br/&gt;</value>
+        <value>WItamy w &lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt;! Dziękujemy za dołączenie do naszej społeczności. Linki, które mogą okazać się przydatne:&lt;br/&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}"&gt;Main page&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}my-profile"&gt;Change avatar&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}photo/viewlist/latest"&gt;Upload Photos&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}profile/edit"&gt;Change profile details&lt;/a&gt;&lt;br/&gt;&#13;- &lt;a href="{$site_url}users"&gt;Look who's in&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&#13;Feel free to participate in our community!&lt;br/&gt;&lt;br/&gt;&#13;&lt;a href="{$site_url}"&gt;{$site_name}&lt;/a&gt; administration&lt;br/&gt;</value>
     </key>
     <key name="welcome_letter_template_text">
         <value>Welcome to {$site_name}! Thanks for joining us. Here are some quick links that you need to find your way around:&#13;&#13;- Main page: {$site_url}&#13;- Change avatar: {$site_url}my-profile&#13;- Upload photos: {$site_url}photo/viewlist/latest&#13;- Change profile details: {$site_url}profile/edit&#13;- Look who's in: {$site_url}users&#13;&#13;Feel free to participate in our community!&#13;&#13;{$site_name} administration&#13;&#13;{$site_url}</value>
@@ -3955,7 +3955,7 @@
         <value>Dostosowywanie</value>
     </key>
     <key name="widgets_admin_dashboard_heading">
-        <value>User Dashboard</value>
+        <value>Strona głowna</value>
     </key>
     <key name="widgets_admin_legend">
         <value>&lt;span class="ow_mild_red"&gt;Red items&lt;/span&gt; are "frozen". Frozen items' positions are fixed and can not be moved or edited by user. They always occupy the upper positions in containers.</value>
@@ -4108,16 +4108,16 @@
         <value>Wprowadź link do wideo</value>
     </key>
     <key name="ws_video_head_label">
-        <value>Insert video</value>
+        <value>Wstaw wideo</value>
     </key>
     <key name="ws_video_textarea_label">
-        <value>Embed your video code here:</value>
+        <value>Umieść tutaj swój kod wideo:</value>
     </key>
     <key name="ws_video_text_label">
         <value>Dodaj link do wideo...</value>
     </key>
     <key name="year">
-        <value>Year</value>
+        <value>Rok</value>
     </key>
     <key name="yes">
         <value>Tak</value>
