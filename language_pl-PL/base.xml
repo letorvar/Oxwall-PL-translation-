@@ -529,7 +529,7 @@
         <value>Stare hasło</value>
     </key>
     <key name="change_password_repeat_password">
-        <value>Powtórz nowy hasło</value>
+        <value>Powtórz nowe hasło</value>
     </key>
     <key name="change_password_success">
         <value>Hasło zostało zmienione</value>
@@ -1096,7 +1096,7 @@
         <value>Date validator error!</value>
     </key>
     <key name="form_validator_email_error_message">
-        <value>Email validator error!</value>
+        <value>Email ator error!</value>
     </key>
     <key name="form_validator_float_error_message">
         <value>Wartość niepoprawna lub przekracza limit serwera.</value>
@@ -3040,7 +3040,7 @@
     <key name="questions_question_ecef9fe729d11241c04609c3a7ca468e_description"/>
     <key name="questions_question_ecef9fe729d11241c04609c3a7ca468e_label"/>
     <key name="questions_question_email_description">
-        <value>Should be valid</value>
+        <value>Adres email nie jest widoczny dla pozostałych użytkowników</value>
     </key>
     <key name="questions_question_email_label">
         <value>Email</value>
@@ -3380,7 +3380,7 @@
     </key>
     <key name="questions_question_sex_value_4"/>
     <key name="questions_question_username_description">
-        <value>Hasło powinno zawierać tylko litery i cyfry</value>
+        <value>Nazwa użytkownika powinna zawierać tylko litery i cyfry bez znaków specjalnych</value>
     </key>
     <key name="questions_question_username_label">
         <value>Nazwa użytkownika</value>
@@ -4102,7 +4102,7 @@
         <value>Tekst:</value>
     </key>
     <key name="ws_link_url_label">
-        <value>To what URL should this link go:</value>
+        <value>Wpisz adres URL:</value>
     </key>
     <key name="ws_video_empty_field">
         <value>Wprowadź link do wideo</value>

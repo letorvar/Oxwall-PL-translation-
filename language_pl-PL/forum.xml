@@ -172,7 +172,7 @@
 		<value>Na pewno chcesz usunąć ten post?</value>
 	</key>
 	<key name="delete_quote_confirm">
-		<value>NA pewno chcesz usunąć ten wpis?</value>
+		<value>Na pewno chcesz usunąć ten wpis?</value>
 	</key>
 	<key name="delete_section">
 		<value>Usuń</value>
@@ -217,6 +217,9 @@
 		<value>Edit Forum Section</value>
 	</key>
 	<key name="edit_topic">
+		<value>Edytuj</value>
+	</key>
+	<key name="edit">
 		<value>Edytuj</value>
 	</key>
 	<key name="edit_topic_title">

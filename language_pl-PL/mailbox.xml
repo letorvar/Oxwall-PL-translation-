@@ -40,7 +40,7 @@
         <value>Przeczytaj wiadomość (use credits)</value>
     </key>
     <key name="attache_file_delete_button">
-        <value>skasuj</value>
+        <value>Usuń</value>
     </key>
     <key name="attachment">
         <value>Załącznik</value>
@@ -438,7 +438,7 @@ Pozdrawiamy, administracja {$site_name}</value>
         <value>Przeczytaj wiadomość</value>
     </key>
     <key name="recipient_is_required">
-        <value>Recipient is not selected</value>
+        <value>Wybierz odbiorcę</value>
     </key>
     <key name="reply_to_chat_message_permission_denied">
         <value>Nie masz wystarczających uprawnień żeby odpisać na tą widomość.</value>
@@ -648,10 +648,10 @@ Pozdrawiamy, administracja {$site_name}</value>
         <value>[username] jest online</value>
     </key>
     <key name="user_is_suspended">
-        <value>Osoba, z którą próbujesz się skontaktować została zablokowana.</value>
+        <value>Osoba z którą próbujesz się skontaktować została zablokowana.</value>
     </key>
     <key name="user_is_unreachable">
-        <value>Osoba, z którą próbujesz się skontaktować została zablokowana.</value>
+        <value>Osoba z którą próbujesz się skontaktować została zablokowana.</value>
     </key>
     <key name="user_not_found">
         <value>Nie znaleziono użytkownika</value>
@@ -669,7 +669,7 @@ Pozdrawiamy, administracja {$site_name}</value>
         <value>Ustawienia wiadomości</value>
     </key>
     <key name="user_went_offline">
-        <value>{$displayname} went offline</value>
+        <value>{$displayname} jest offline</value>
     </key>
     <key name="use_chat">
         <value>Użyj czatu</value>

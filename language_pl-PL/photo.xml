@@ -34,16 +34,16 @@
         <value>View settings</value>
     </key>
     <key name="advanced_upload">
-        <value>Advanced upload</value>
+        <value>Dodawanie zaawansowane</value>
     </key>
     <key name="advanced_upload_add_more">
-        <value>NO</value>
+        <value>NIE</value>
     </key>
     <key name="advanced_upload_browse">
-        <value>ADD PHOTOS</value>
+        <value>DODAJ ZDJĘCIA</value>
     </key>
     <key name="advanced_upload_complete">
-        <value>COMPLETE</value>
+        <value>GOTOWE</value>
     </key>
     <key name="advanced_upload_confirm">
         <value>PROCEED WITH UPLOADING PHOTOS?</value>
@@ -52,16 +52,16 @@
         <value>Enable advanced Adobe Flash uploader to let users choose any number of files, resize, rotate photos before upload</value>
     </key>
     <key name="advanced_upload_processing">
-        <value>PROCESSING</value>
+        <value>Ładowanie</value>
     </key>
     <key name="advanced_upload_upload">
-        <value>UPLOAD</value>
+        <value>PRZEKAŻ PLIK</value>
     </key>
     <key name="advanced_upload_uploading">
-        <value>UPLOADING</value>
+        <value>PRZESYŁANIE</value>
     </key>
     <key name="advanced_upload_yes">
-        <value>YES</value>
+        <value>TAK</value>
     </key>
     <key name="album">
         <value>Album</value>
@@ -70,25 +70,25 @@
         <value>albums by</value>
     </key>
     <key name="album_by">
-        <value>Album by</value>
+        <value>Album</value>
     </key>
     <key name="album_deleted">
-        <value>Album deleted</value>
+        <value>Album został usunięty</value>
     </key>
     <key name="album_delete_not_allowed">
-        <value>You are not allowed to delete photo albums</value>
+        <value>Nie możesz usunąć tego albumu</value>
     </key>
     <key name="album_desc">
-        <value>Description</value>
+        <value>Opis</value>
     </key>
     <key name="album_description">
         <value>{$desc} ({$count})</value>
     </key>
     <key name="album_my_photos">
-        <value>My Photos</value>
+        <value>Moje zdjęcia</value>
     </key>
     <key name="album_name">
-        <value>Album Name</value>
+        <value>Nazwa albumu</value>
     </key>
     <key name="album_quota">
         <value>Maximum number of photos per album</value>
